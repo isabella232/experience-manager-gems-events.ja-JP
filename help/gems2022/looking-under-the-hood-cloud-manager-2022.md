@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
+source-git-commit: ba2d7a7f37fd2f1ea0c9888353b73b44fa665cb5
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ ht-degree: 0%
 
 コンテンツは、Cloud Serviceに焦点を当てたAdobe Experience Manager as a Cloud ServiceとExperience ManagerManaged Servicesの両方に適用されます。 技術的な参加者と非技術的な参加者の両方に適しています。 以前は、Cloud Manager を利用してコンテキストに役立つことがありましたが、必須ではありません。
 
-## ウェビナー録画
+### ウェビナー録画
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
 >* セッション固有のコミュニティでのExperience Leagueの操作については、次を参照してください： [コンテキストスレッド](https://adobe.ly/3O0rdzd)
->* このウェビナーに参加しない場合は、 [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/) 今後のAEM GEM ウェビナーおよびAEM関連イベントの通知を受け取る。
+>* ウェビナーに関する自動通知を受け取るには、 [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
 
