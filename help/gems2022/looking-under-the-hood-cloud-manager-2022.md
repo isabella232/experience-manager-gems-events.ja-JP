@@ -7,7 +7,7 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: ba2d7a7f37fd2f1ea0c9888353b73b44fa665cb5
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 コンテンツは、Cloud Serviceに焦点を当てたAdobe Experience Manager as a Cloud ServiceとExperience ManagerManaged Servicesの両方に適用されます。 技術的な参加者と非技術的な参加者の両方に適しています。 以前は、Cloud Manager を利用してコンテキストに役立つことがありましたが、必須ではありません。
 
-### ウェビナー録画
+**ウェビナー録画**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
