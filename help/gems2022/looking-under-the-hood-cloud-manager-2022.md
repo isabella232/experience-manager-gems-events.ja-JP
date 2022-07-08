@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 8a6bbf6fb09e9e9d8ce42c6474830792cadc3250
+source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,15 @@ ht-degree: 0%
 
 # 内部を見る — Cloud Manager 2022
 
-*このウェビナーは、6 月 15 日～午後 3 時 (UTC) に実施されました。 利用可能になったら、このレコーディングを投稿します [コンテキストスレッド](https://adobe.ly/3O0rdzd)*
+*このウェビナーは、6 月 15 日～午後 3 時 (UTC) に実施されました。 以下の録画をご覧ください。*
 
 セッションの説明：昨年リリースされた新機能、バックグラウンドでの開発の更新、2022 年の残りの部分の見直しなどをご覧ください。 Cloud Manager が内部でどのように機能するか、および顧客が Cloud Manager を最大限に活用する方法に関する詳細。  
 
 コンテンツは、Cloud Serviceに焦点を当てたAdobe Experience Manager as a Cloud ServiceとExperience ManagerManaged Servicesの両方に適用されます。 技術的な参加者と非技術的な参加者の両方に適しています。 以前は、Cloud Manager を利用してコンテキストに役立つことがありましたが、必須ではありません。
+
+## ウェビナー録画
+
+>[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
