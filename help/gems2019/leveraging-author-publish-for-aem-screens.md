@@ -1,23 +1,29 @@
 ---
-title: Leveraging author-publish for AEM Screens
-description: Get a full production setup for AEM Screens and learn all necessary steps for publishing content onto Screens / Digital Signage player.
+title: AEM Screens向けのオーサーとパブリッシュの活用
+description: AEM Screensの完全な実稼動環境の設定を確認し、Screens/Digital Signage Player へのコンテンツの公開に必要なすべての手順を学習します。
 uuid: 45a68d1d-824e-4922-b440-dd53131d2bdc
 discoiquuid: ea92d8e0-1dc3-4933-9fd2-f8d240ec65ba
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 2%
+
 ---
 
-# Leveraging author-publish for AEM Screens{#leveraging-author-publish-for-aem-screens}
 
-In this Gems session we will do a full production setup for AEM Screens and explain all necessary steps for publishing content onto Screens / Digital Signage player. Learn how to leverage author-publish topology for AEM Screens. Preview the steps an author has to do to publish content updates and distribute them to the devices. Further, we will have a closer look on the architecture behind this flow. In addition, you will find out about the configuration needed for the publish cluster, replication and devices.
+# AEM Screens向けのオーサーとパブリッシュの活用{#leveraging-author-publish-for-aem-screens}
 
-**Presented by:**
+この Gems セッションでは、AEM Screensの完全な実稼動環境の設定をおこない、Screens / Digital Signage Player へのコンテンツの公開に必要なすべての手順を説明します。 AEM Screensでオーサーとパブリッシュのトポロジを活用する方法を説明します。 コンテンツの更新を公開してデバイスに配布するために作成者がおこなう必要のある手順をプレビューします。 さらに、この流れの背後にあるアーキテクチャについて詳しく見てみましょう。 さらに、パブリッシュクラスター、レプリケーション、デバイスに必要な設定についても説明します。
 
-Iulia Grumaz, Computer Scientist, Software Development, Adobe
+**提示者：**
+
+Iulia Grummaz 氏 ( ソフトウェア開発、Adobe)
 
 >[!VIDEO](https://video.tv.adobe.com/v/28706/?quality=9)
 
-*Delivered September 4, 2019*
+*2019 年 9 月 5 日*
 
-Presentation
+プレゼンテーション
 
-[Get File](assets/leveraging-author-publish-aem-screens-final.pdf)
+[ファイルを入手](assets/leveraging-author-publish-aem-screens-final.pdf)

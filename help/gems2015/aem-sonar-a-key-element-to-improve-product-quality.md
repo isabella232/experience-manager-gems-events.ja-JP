@@ -1,28 +1,34 @@
 ---
-title: Sonar - A key element to improve product quality
-description: Learn how to use Sonar to help improve product quality, including Unit Test coverage, Integration Test coverage, static code analysis. Also learn about AEM use case and get a Q&A global presentation of Sonar application.
+title: Sonar — 製品の品質を向上させるための重要な要素
+description: Sonar を使用して、単体テストの有効範囲、統合テストの有効範囲、静的コード分析など、製品の品質を向上させる方法を説明します。 また、AEMの使用例について学習し、Sonar アプリケーションの Q&A のグローバルプレゼンテーションを受け取ります。
 uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
 exl-id: 6aa7ca31-aebe-418c-a231-f2cc7b619c00
+source-git-commit: b7806491034e1afcef503311de86bb15fda51460
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 6%
+
 ---
-# Sonar - A key element to improve product quality{#sonar-a-key-element-to-improve-product-quality}
 
-During this session David will discuss: 
+# Sonar — 製品の品質を向上させるための重要な要素{#sonar-a-key-element-to-improve-product-quality}
 
-* How to use Sonar to help improve product quality (Unit Test coverage, Integration Test coverage, static code analysis)
-* AEM use case
-* Q&A Global presentation of Sonar application
+このセッションでは、David が以下について話し合います。
+
+* Sonar を使用して製品品質を改善する方法（単体テストの有効範囲、統合テストの有効範囲、静的コード分析）
+* AEMの使用例
+* Sonar アプリケーションに関する Q&amp;A のグローバルプレゼンテーション
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Delivered February 11, 2015*
+*2015 年 2 月 12 日*
 
-**Presented by:**
+**提示者：**
 
-* David Catalan, Lead QE Developer, Adobe
+* David Catalan 氏、QE リードデベロッパー、Adobe
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[ダウンロード](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
+[概要に戻る](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)

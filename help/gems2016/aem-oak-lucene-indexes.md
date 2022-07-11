@@ -1,33 +1,39 @@
 ---
-title: Oak Lucene Indexes
-description: We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
+title: Oak Lucene インデックス
+description: Oak Lucene インデックスの機能と、クエリのパフォーマンスを向上させるために使用する方法について説明します。 第 2 部では、非同期インデックス作成の一般的な動作と監視方法について説明します。
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
 exl-id: 5eaed3e2-9bb5-400e-950e-8a6161590acc
----
-# Oak Lucene Indexes{#oak-lucene-indexes}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 11%
 
-We describe the features of Oak Lucene indexes and how they can be used to get your queries perform better. In the second part we will talk about how asynchronous indexing works in general and how it can be monitored.
+---
+
+# Oak Lucene インデックス{#oak-lucene-indexes}
+
+Oak Lucene インデックスの機能と、クエリのパフォーマンスを向上させるために使用する方法について説明します。 第 2 部では、非同期インデックス作成の一般的な動作と監視方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19303/?quality=9)
 
-*Delivered January 20, 2016*
+*配信日：2016 年 1 月 21 日*
 
-**Presented by:**
+**提示者：**
 
-* Chetan Mehrotra, Senior Computer Scientist, Adobe
-* Alex Parvulescu, Senior Developer, Adobe
+* チェタン・メロトラAdobe、シニア・コンピューター・サイエンティスト
+* Alex Parvulescu 氏 (Adobe、シニアデベロッパー )
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
+[ファイルを入手](assets/aem-gems-012016-oak-lucene-indexes-async-local.pdf)
 
-**Session Questions and Answers**
+**セッションに関する質問と回答**
 
-[Get File](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
+[ファイルを入手](assets/q-a-1-20-16-gem-session-oak-lucene-indexes.pdf)
 
-## Related links {#related-links}
+## 関連リンク {#related-links}
 
-* [Oak Queries and Indexing](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
-* [Oak Documentation: Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html)
+* [Oak クエリとインデックス作成](https://docs.adobe.com/docs/en/aem/6-1/deploy/platform/queries-and-indexing.html)
+* [Oak ドキュメント：Lucene インデックス](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

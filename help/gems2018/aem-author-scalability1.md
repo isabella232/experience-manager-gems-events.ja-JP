@@ -1,26 +1,32 @@
 ---
-title: Experiments in AEM Author Scalability
-description: Scaling AEM Authors is primarily about scaling Oak, but what is the best way to do that? In this session we will cover a number of experiments that have been done to explore how to scale AEM and Oak. We will cover what was learned from these experiments, how what we learned affects how we think of content storage moving forward, projects and tools that have come from these experiments, and also some surprising and non-intuitive takeaways.
+title: AEM Author のスケーラビリティ実験
+description: AEM Authors のスケーリングは主に Oak のスケーリングに関するものですが、それをおこなう最善の方法は何ですか？ このセッションでは、AEMと Oak のスケール方法を調べるために行われた実験の数を説明します。 これらの実験で学んだこと、学んだことが、コンテンツの保存の将来に向けた考え方、これらの実験で得たプロジェクトやツール、そして驚くべき、直感的でない留意点にどのように影響するかを説明します。
 uuid: 5dab0a6c-2b3c-40fc-866a-b630215d1cd8
 discoiquuid: 0b0d99a4-60be-4e25-9169-5a9717fbcaa2
 targetaudience: target-audience advanced
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '178'
+ht-degree: 1%
+
 ---
 
-# Experiments in AEM Author Scalability{#experiments-in-aem-author-scalability}
 
-Scaling AEM Authors is primarily about scaling Oak, but what is the best way to do that? In this session we will cover a number of experiments that have been done to explore how to scale AEM and Oak. We will cover what was learned from these experiments, how what we learned affects how we think of content storage moving forward, projects and tools that have come from these experiments, and also some surprising and non-intuitive takeaways.
+# AEM Author のスケーラビリティ実験{#experiments-in-aem-author-scalability}
+
+AEM Authors のスケーリングは主に Oak のスケーリングに関するものですが、それをおこなう最善の方法は何ですか？ このセッションでは、AEMと Oak のスケール方法を調べるために行われた実験の数を説明します。 これらの実験で学んだこと、学んだことが、コンテンツの保存の将来に向けた考え方、これらの実験で得たプロジェクトやツール、そして驚くべき、直感的でない留意点にどのように影響するかを説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21522/?quality=9)
 
-*Delivered February 7, 2018*
+*2018 年 2 月 8 日*
 
-**Presented by:**
+**提示者：**
 
-Matt Ryan, Sr. Software Engineer, Adobe
+Matt Ryan 氏 (SR ソフトウェアエンジニア、Adobe)
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
+[ファイルを入手](assets/experiments+in+aem+author+scalability+2+7+18.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -1,55 +1,62 @@
-# Contribute article
+---
+source-git-commit: 6cb7cbce469afcefbdf767aff74858f147fc8593
+workflow-type: tm+mt
+source-wordcount: '432'
+ht-degree: 99%
 
-Test push.
+---
+# 記事の寄稿
 
-We welcome contributions from our community as well as from Adobe employees from outside the documentation teams. 
+プッシュをテストします。
 
-## Adobe Open Source Code of Conduct
+アドビでは、コミュニティおよびドキュメントチーム以外のアドビ社員からの寄稿を歓迎します。
 
-This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](contributing.md) article.
+## アドビオープンソース行動規範
 
-## About your contributions to Adobe content
+このプロジェクトでは、[アドビオープンソース行動規範](code-of-conduct.md)または [NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。詳しくは、「[投稿](contributing.md)」を参照してください。
 
-See the [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html). 
+## アドビコンテンツへの寄稿について
 
-How you contribute depends on who you are and the sort of changes you'd like to contribute:
+[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)（英語）を参照してください。
 
-### Minor changes
+寄稿方法は、コントリビューターが誰か、寄稿したい変更の種類によって異なります。
 
-If you are contributing minor updates out of the goodness of your heart, visit the article and click the **Edit** link in the article that goes to the GitHub source for the article. Then, just use the GitHub UI to make your updates. See the general [Adobe Docs contributor guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) for more information.
+### 軽微な変更
 
-Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the Adobe terms of use.
+善意でマイナーアップデートを寄稿する場合は、記事にアクセスし、記事の GitHub ソースに移動する「**編集**」リンクをクリックします。そのあとは、GitHub UI を使用して更新をおこないます。詳しくは、一般的な[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)（英語）を参照してください。
 
-### Major changes or new articles from community members
+このリポジトリ内のドキュメントおよびコード例について投稿した軽微な修正または説明には、アドビの利用条件が適用されます。
 
-If you're part of the Adobe community and you want to create a new article or submit major changes, please use the Issues tab in the Git repository to submit an issue to start a conversation with the documentation team. Once you've agreed to a plan, you'll need to work with an employee to help bring that new content in through a combination of work in the public and private repositories.
+### コミュニティメンバーによる大きな変更または新しい記事
+
+アドビコミュニティのメンバーが新しい記事を作成したり、重大な変更を投稿したりする場合は、Git リポジトリーの「Issues」タブを使用して問題を送信し、ドキュメントチームとのやり取りを開始してください。計画に同意したら、社員と協力して、公開リポジトリーとプライベートリポジトリー内の作業結果を組み合わせて新しいコンテンツを取り込むのを手伝う必要があります。
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Major changes from Adobe Employees
+### アドビ社員による重大な変更
 
-If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it's your job to contribute to or author technical articles, you should use the private repository at `https://git.corp.adobe.com/AdobeDocs`. 
+Adobe Experience Cloud ソリューションの製品チームに所属するテクニカルライター、プログラムマネージャー、開発者が業務の一環として技術的記事に投稿したり、技術的記事を作成したりする場合は、`https://git.corp.adobe.com/AdobeDocs` のプライベートリポジトリーを使用してください。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
-## Tools and setup
+## ツールとセットアップ
 
-Community contributors can use the GitHub UI for basic editing or fork the repo to make major contributions.
+コミュニティ投稿者は、GitHub UI を使用して簡単な編集をおこなったり、リポジトリをフォークして大規模な投稿をおこなったりできます。
 
-See the [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) for details.
+詳しくは、[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)（英語）を参照してください。
 
-## How to use markdown to format your topic
+## Markdown を使用してトピックを書式設定する方法
 
-All the articles in this repository use GitHub flavored markdown. If you are not familiar with markdown, see:
+このリポジトリ内のすべての記事は、GitHub フレーバーな Markdown を使用しています。Markdown に馴染みがない場合は、以下を参照してください。
 
-* [Markdown basics](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [Printable markdown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [マークダウンの基礎知識](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能なマークダウンチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-## Labels
+## ラベル
 
-In the public repository, automated labels are assigned to pull requests to help us manage the pull request workflow and to help let you know what's going on with your pull request:
+公開リポジトリでは、アドビがプル要求のワークフローを管理したり、プル要求の状況を寄稿者が把握できるようにしたりするために、プル要求に自動ラベルが割り当てられます。
 
-* **Change sent to author**: The author has been notified of the pending pull request.
-* **ready-to-merge**: Ready for review by our pull request review team.
+* **Change sent to author**：保留中のプル要求について作成者に通知されました。
+* **ready-to-merge**：プル要求レビューチームによるレビューの準備ができました。

@@ -1,34 +1,40 @@
 ---
-title: Configuring the DAM for Enterprise
-description: This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+title: DAM for Enterprise の設定
+description: このセッションは、AEM Assetsを活用してユーザーが成功を改善するのを支援するように設計されています。 Arnold Espos は、実際の DAM Enterprise のお客様の使用例、課題、DAM での成功を高めるために課題を解決するために作成されたソリューションに焦点を当てます。   参加者は、環境での DAM の使用方法をより深く理解できるようになります。 実際のお客様の事例を見て、既存の DAM のお客様と連携する参加者は、このサービスを通じて提供される新しいソリューションを理解でき、既存のワークフローと技術の理解を助けることができます。
 uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 4%
+
 ---
-# Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
-This session is designed to help users improve success leveraging [!DNL AEM Assets]. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
+# DAM for Enterprise の設定{#configuring-the-dam-for-enterprise}
 
-Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+このセッションは、ユーザーが [!DNL AEM Assets]. Arnold Espos は、実際の DAM Enterprise のお客様の使用例、課題、DAM での成功を高めるために課題を解決するために作成されたソリューションに焦点を当てます。
+
+参加者は、環境での DAM の使用方法をより深く理解できるようになります。 実際のお客様の事例を見て、既存の DAM のお客様と連携する参加者は、このサービスを通じて提供される新しいソリューションを理解でき、既存のワークフローと技術の理解を助けることができます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Delivered October 5, 2016*
+*2016 年 10 月 6 日*
 
-**Presented by:**
+**提示者：**
 
-* Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
-* Greg Klebus, Group Product Manager, Adobe
+* Arnold Espos、シニアプロダクトマネージャ、Adobe
+* Josh Ramirez、製品部門責任者 [!DNL AEM Assets],Adobe
+* Greg Klebus 氏 (Adobe、グループプロダクトマネージャ )
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/assets-webinar-oct5final.pdf)
+[ファイルを入手](assets/assets-webinar-oct5final.pdf)
 
-## Related links {#related-links}
+## 関連リンク {#related-links}
 
-* [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+* [AEM Assetsドキュメントの更新](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
+* [AEM 6.1 SP2 リリースノート](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
+* [AEM 6.2 Desktop App リリースノート](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)

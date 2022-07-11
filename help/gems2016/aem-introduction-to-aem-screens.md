@@ -1,33 +1,39 @@
 ---
-title: Introduction to AEM Screens
-description: AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+title: AEM Screens の概要
+description: AEM Screensは、Adobe Experience Managerに統合された新しいデジタルサイネージソリューションです。 このAEM Gems セッションでは、AEM Screensの主な機能と、スライドショーとインタラクティブなエクスペリエンスを使用したシンプルなプロジェクトの設定方法について説明します。 次に、AEM Screensで最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要を説明します。 最後に、AEM Screens REST API を参照し、カスタム Cordova プラグインの統合方法を説明します。
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
 exl-id: b68e5d95-876d-48c5-874d-5b9459c56220
----
-# Introduction to AEM Screens{#introduction-to-aem-screens}
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '214'
+ht-degree: 7%
 
-AEM Screens is the new digital signage solution integrated into Adobe Experience Manager. In this AEM Gems session, we will present the main features of AEM Screens and how to set up a simple Project with a slideshow and an interactive experience. We then give an overview of how to develop AEM Screens optimized components and how to set up Channels for offline use. Finally, we will explore the AEM Screens REST API and explain how to integrate custom Cordova plugins.
+---
+
+# AEM Screens の概要{#introduction-to-aem-screens}
+
+AEM Screensは、Adobe Experience Managerに統合された新しいデジタルサイネージソリューションです。 このAEM Gems セッションでは、AEM Screensの主な機能と、スライドショーとインタラクティブなエクスペリエンスを使用したシンプルなプロジェクトの設定方法について説明します。 次に、AEM Screensで最適化されたコンポーネントを開発する方法と、オフラインで使用するためのチャネルを設定する方法の概要を説明します。 最後に、AEM Screens REST API を参照し、カスタム Cordova プラグインの統合方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19301/?quality=9)
 
-*Delivered November 16, 2016*
+*2016 年 11 月 17 日*
 
-**Presented by:**
+**提示者：**
 
-* Julien Ramboz, UI Developer, Adobe
-* Tobias Reiss, Computer Scientist, Software Development, Adobe
+* Julien Ramboz、UI 開発者、Adobe
+* Tobias Reiss、コンピューターサイエンティスト、ソフトウェア開発、Adobe
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/2016-11-16-aem-screens.pdf)
+[ファイルを入手](assets/2016-11-16-aem-screens.pdf)
 
-Sample Project
+サンプルプロジェクト
 
-[Get File](assets/aemscreensgems.zip)
+[ファイルを入手](assets/aemscreensgems.zip)
 
-## Related links {#related-links}
+## 関連リンク {#related-links}
 
-* [Deploying Screens](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
-* [Screens Concept](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)
+* [Screens のデプロイ](https://docs.adobe.com/docs/en/aem/6-2/deploy/screens.html)
+* [Screens の概念](https://docs.adobe.com/docs/en/aem/6-2/administer/screens.html)

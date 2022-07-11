@@ -4,27 +4,33 @@ solution: Experience Manager
 product: adobe experience manager
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.en
-index: yes
+git-repo: https://github.com/AdobeDocs/experience-manager-gems-events.ja-JP
+index: true
+source-git-commit: 34a9797488b4ad73feba99d4ae76a79df8df7418
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 96%
+
 ---
 
-# Metadata for internal use
 
-The metadata.md file includes repo-level metadata that passes through to user guide TOC.md files in the repo. If you want to change metadata.md content for any user guide, do so in any TOC.md file.
+# 内部使用メタデータ
 
-| metadata | what it does |
+metadata.md ファイルには、リポジトリ内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更するには、任意の TOC.md ファイル内で行います。
+
+| メタデータ | 機能 |
 |--- |--- |
-| solution-title | Used in article header as link |
-| solution-hub-url | Opens helpx hub page |
-| solution-icon | Displays solution icon next to solution title. Not yet implemented |
-| getting-started-url | Link to helpx getting started page |
-| tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
-| mini-toc-levels | Determines the number of heading levels that appear in right rail. default is 2 |
-| git-repo | Specifies the location of the master repo for internal use |
+| solution-title | 記事ヘッダーでリンクとして使用されます。 |
+| solution-hub-url | helpx ハブページを開きます。 |
+| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。まだ実装されていません |
+| getting-started-url | helpx の「はじめに」のページへのリンク |
+| tutorials-url | ビデオチュートリアル（helpx チュートリアルまたは KT チュートリアル）へのリンク |
+| mini-toc-levels | 右側のレールに表示される見出しレベルの数を決定します。デフォルトは 2 です。 |
+| git-repo | 内部使用のマスターリポジトリーの場所を指定します。 |
 
-In TOC.md file
+TOC.md ファイル内
 
-| metadata | what it does |
+| メタデータ | 機能 |
 |--- |--- |
-| user-guide-title | Used in article header as link |
-| user-guide-url | Opens helpx hub page |
+| user-guide-title | 記事ヘッダーでリンクとして使用されます。 |
+| user-guide-url | helpx ハブページを開きます。 |

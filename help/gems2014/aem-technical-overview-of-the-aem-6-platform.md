@@ -1,29 +1,35 @@
 ---
-title: Technical overview of the AEM 6 platform
-description: In this session, Peter Klassen - Product Manager, looks JCR Repository reloaded, performance improvements, and new scalability options.
+title: AEM 6 プラットフォームの技術概要
+description: このセッションでは、Peter Klassen(Product Manager) は、JCR リポジトリの再読み込み、パフォーマンスの向上、新しい拡張性オプションを確認します。
 uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: adfa8ba5-943b-4363-b810-b452078681ab
----
-# Technical overview of the AEM 6 platform{#technical-overview-of-the-aem-platform}
+source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
+workflow-type: tm+mt
+source-wordcount: '130'
+ht-degree: 5%
 
-In this session Peter Klassen - Product Manager will look at the following: JCR Repository reloaded - performance improvements and new scalability options at one sight, mongoDB in AEM 6, where to store binaries - new DataStore options overview, platform operations made easy. The targeted audience for this session are partners and customers; project managers, architects and administrators.
+---
+
+# AEM 6 プラットフォームの技術概要{#technical-overview-of-the-aem-platform}
+
+このセッションでは、Peter Klassen - Product Manager が以下を確認します。JCR リポジトリの再読み込み — パフォーマンスの改善と新しい拡張性オプション (AEM 6 の mongoDB)。バイナリを保存する場所 — 新しい DataStore オプションの概要、プラットフォーム操作が簡単になりました。 このセッションのターゲットオーディエンスは、パートナーおよび顧客です。プロジェクトマネージャー、アーキテクト、管理者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19517/?quality=9)
 
-*Delivered June 11, 2014*
+*2014 年 6 月 12 日*
 
-**Presented by:**
+**提示者：**
 
-Peter Klassen, Product Manager, Adobe
+Peter Klassen 氏 (Adobe、プロダクトマネージャ )
 
-**Presenter slides**
+**発表者のスライド**
 
-[Get File](assets/aem6-platform-whatsnew.pdf)
+[ファイルを入手](assets/aem6-platform-whatsnew.pdf)
 
-## Related links {#related-links}
+## 関連リンク {#related-links}
 
-* [AEM 6.0 Release Notes](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [Managing AEM 6.0](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
-* [Planning your upgrade to AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [AEM 6.0 リリースノート](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [AEM 6.0 の管理](http://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [AEM 6.0 へのアップグレードの計画](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
