@@ -1,46 +1,39 @@
 ---
-title: Sling コンテンツ配布のトラブルシューティング
-description: 'Sling Content Distribution(SCD) は、AEMで、コンテンツの転送、逆転配信、同期に使用できます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。 '
+title: Troubleshooting Sling Content Distribution
+description: Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD. 
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 12%
-
 ---
 
+# Troubleshooting Sling Content Distribution{#troubleshooting-sling-content-distribution}
 
-# Sling コンテンツ配布のトラブルシューティング{#troubleshooting-sling-content-distribution}
-
-Sling Content Distribution(SCD) は、AEMで、コンテンツの転送、逆転配信、同期に使用できます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
+Sling Content Distribution (SCD) can be used in AEM for forward, reverse content distribution and synchronisation. In this session, we will provide details on how to troubleshoot and handle common issues with SCD.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*2017 年 8 月 24 日*
+*Delivered August 23, 2017*
 
-**提示者：**
+**Presented by:**
 
-ティモテ・マーレAdobe、シニアデベロッパー
+Timothee Maret, Senior Developer, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/aem-gems-scd.pdf)
+[Get File](assets/aem-gems-scd.pdf)
 
-## リソース {#resources}
+## Resources {#resources}
 
-ユーザーの同期
+User Sychronization
 
-* [AEM 6.3 ドキュメント](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [AEM 6.2 ドキュメント](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [AEM 6.1 ドキュメント](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
+* [AEM 6.3 Documentation](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
+* [AEM 6.2 Documentation](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
+* [AEM 6.1 Documentation](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Apache Sling Content Distribution](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [概要に戻る](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
->* [Sling コンテンツ配布のトラブルシューティング](aem-troubleshooting-sling.md)
-
+>* [AEM Indexing and JCR Query](aem-indexing-jcr-query.md)
+>* [Troubleshooting Sling Content Distribution](aem-troubleshooting-sling.md)

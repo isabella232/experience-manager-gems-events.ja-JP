@@ -1,36 +1,30 @@
 ---
-title: AEMの統合 — 堅牢な基盤は非常に優れています
-description: AEMの作業は非常に自己完結型ですが、AEMに取り組む AT/AAM/AA コンサルタントは、AEMの対応するコンサルタントと共同作業する必要があります。 このセッションでは、DTM を使用した AT/AAM/AA 統合の概要、およびどのような点が重要かについて説明します。
+title: AEM Integrations - a solid foundation goes a long way
+description: While AEM work is pretty self-contained, we AT/AAM/AA consultants working with AEM need to collaborate with our AEM counterparts. This session gives a brief overview of AT/AAM/AA integrations using DTM, the things we look for, and why it all matters.
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 2%
-
 ---
 
+# AEM Integrations - a solid foundation goes a long way{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
-# AEMの統合 — 堅牢な基盤は非常に優れています{#aem-integrations-a-solid-foundation-goes-a-long-way}
-
-AEMの作業は非常に自己完結型ですが、AEMに取り組む AT/AAM/AA コンサルタントは、AEMの対応するコンサルタントと共同作業する必要があります。 このセッションでは、DTM を使用した AT/AAM/AA 統合の概要、およびどのような点が重要かについて説明します。 AT/AAM/AA やAEMを実際に使用する理由を知りたい場合は、これがセッションです。   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
+While AEM work is pretty self-contained, we AT/AAM/AA consultants working with AEM need to collaborate with our AEM counterparts. This session gives a brief overview of AT/AAM/AA integrations using DTM, the things we look for, and why it all matters. If you ever wanted to know why people actually use AT/AAM/AA, or even AEM, this is your session.   AT = Adobe Target  AAM = Adobe Audience Manager  AA = Adobe Analytics  DTM = Dynamic Tag Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017 年 9 月 28 日*
+*Delivered September 27, 2017*
 
-**提示者：**
+**Presented by:**
 
-Jan Exner（マネージャー） 管理コンサルタント、Adobe
+Jan Exner, Mgr. Management Consultant, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/170927-aem-gems-integrations.pdf)
+[Get File](assets/170927-aem-gems-integrations.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-[開発者向け Web 分析](https://webanalyticsfordevelopers.com/)
+[Web Analytics for Developers](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

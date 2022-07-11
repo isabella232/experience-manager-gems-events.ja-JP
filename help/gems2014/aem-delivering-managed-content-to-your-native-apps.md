@@ -1,32 +1,26 @@
 ---
-title: ネイティブアプリに管理コンテンツを配信
-description: PhoneGap Enterprise が提供する Web テクノロジーやクロスプラットフォーム開発に完全に移行する立場にはないかもしれませんが、既存のネイティブアプリに Web コンテンツを直接追加することで、AEMの機能を活用できます。 このセッションでは、AEMアプリで作成されたコンテンツを既存の Android アプリと統合する方法について詳しく説明します。 ネイティブアプリケーションに統合すると、AEMコンテンツを更新する際に、それ以上のネイティブ開発が必要なくなり、その他のネイティブアプリケーションと通信できるようになります。
+title: Deliver managed content to your native apps
+description: While you may not be in a position to move completely to the use of web technologies and cross-platform development provided by PhoneGap Enterprise, it is still possible to leverage the power of AEM by adding web content directly into your existing native apps. This session will cover in detail how content created with AEM apps can then be integrated with an existing Android app. Once integrated into the native app the AEM content can be updated without any further native development being required and it can communicate with the rest of the native application.
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
 exl-id: 8d2a8a78-5ef0-41e6-9f13-6f91db7c178c
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 0%
-
 ---
+# Deliver managed content to your native apps{#delivering-managed-content-to-your-native-apps}
 
-# ネイティブアプリに管理コンテンツを配信{#delivering-managed-content-to-your-native-apps}
-
-PhoneGap Enterprise が提供する Web テクノロジーやクロスプラットフォーム開発に完全に移行する立場にはないかもしれませんが、既存のネイティブアプリに Web コンテンツを直接追加することで、AEMの機能を活用できます。 このセッションでは、AEMアプリで作成されたコンテンツを既存の Android アプリと統合する方法について詳しく説明します。 ネイティブアプリケーションに統合すると、AEMコンテンツを更新する際に、それ以上のネイティブ開発が必要なくなり、その他のネイティブアプリケーションと通信できるようになります。
+While you may not be in a position to move completely to the use of web technologies and cross-platform development provided by PhoneGap Enterprise, it is still possible to leverage the power of AEM by adding web content directly into your existing native apps. This session will cover in detail how content created with AEM apps can then be integrated with an existing Android app. Once integrated into the native app the AEM content can be updated without any further native development being required and it can communicate with the rest of the native application.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19467/?quality=9)
 
-*2014 年 9 月 11 日*
+*Delivered September 10, 2014*
 
-**提示者：**
+**Presented by:**
 
-Adobe、コンピュータサイエンティスト、アンソニー・ラムジー
+Anthony Rumsey, Computer Scientist, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
+[Get File](assets/9-10-2014-delivering-managed-content-to-your-native-apps.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

@@ -1,34 +1,28 @@
 ---
-title: AEM DAM でのメタデータ管理
-description: AEM DAM でのアセットのメタデータの管理方法について説明します。 XMP標準、DAM がその標準をどのように利用するか、検索でのメタデータの使用方法、組み込みメタデータスキーマの拡張方法について説明します。 最新の DAM 機能パックで導入された新しいメタデータスキーマエディターも提供されています。
+title: Metadata management in AEM DAM
+description: Learn how AEM DAM manages the metadata of assets. Learn the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor, which has been introduced in the latest DAM feature pack, is presented as well.
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: dc3b60a4-2aec-46d5-9129-d8cbb2a14d92
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 3%
-
 ---
+# Metadata Management in AEM DAM{#metadata-management-in-aem-dam}
 
-# AEM DAM でのメタデータ管理{#metadata-management-in-aem-dam}
-
-AEM DAM でのアセットのメタデータの管理方法について説明します。 XMP標準、DAM がその標準をどのように利用するか、検索でのメタデータの使用方法、組み込みメタデータスキーマの拡張方法について説明します。 最新の DAM 機能パックで導入された新しいメタデータスキーマエディターも提供されています。
+Learn how AEM DAM manages the metadata of assets. Learn the XMP standard and how DAM makes use of it, how to use metadata in searches, and how to extend the built-in metadata schemas. The new metadata schema editor, which has been introduced in the latest DAM feature pack, is presented as well.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19524/?quality=9)
 
-*2013 年 11 月 21 日*
+*Delivered November 20, 2013*
 
-**提示者：**
+**Presented by:**
 
-Ugo Cei 氏 (Adobe、デベロッパーテクニカルマーケティングマネージャー )
+Ugo Cei, Developer Technical Marketing Manager, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/metadata-management-in-aem-dam.pdf)
+[Get File](assets/metadata-management-in-aem-dam.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-[ドキュメント](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
+[Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/dam/metadata_for_digitalassetmanagement.html)
 

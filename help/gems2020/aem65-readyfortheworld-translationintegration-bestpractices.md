@@ -1,34 +1,28 @@
 ---
-title: AEM 6.5 の対応 — 翻訳の統合とベストプラクティス
-description: 現在のAEM翻訳機能と、多言語 Web サイトを管理するためのベストプラクティスについて説明します。 グローバル Web サイトの構造化、言語コピー、ライブコピー、MSM の使用方法について説明します。 高度な機能を使用して、コンテンツの翻訳をより簡単、迅速、管理しやすくします。
+title: AEM 6.5 ready for the world - translation integration & best practices
+description: Learn about current AEM translation capabilities and best practices for managing multilingual web sites. Learn how to structure global websites, use language copies, live copies, and MSM. Achieve easier, faster, and more manageable content translation using advance features.
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 3%
-
 ---
 
+# AEM 6.5 ready for the world - translation integration & best practices{#aem-ready-for-the-world-translation-integration-best-practices}
 
-# AEM 6.5 の対応 — 翻訳の統合とベストプラクティス{#aem-ready-for-the-world-translation-integration-best-practices}
+This session presents current AEM translation capabilities and best practices for managing multilingual web sites. You learn how to structure global websites and use language copies, live copies, and MSM. The session also covers how to achieve easier, faster, and more manageable content translation using advance features.
 
-このセッションでは、現在のAEM翻訳機能と、多言語の Web サイトを管理するためのベストプラクティスを紹介します。 グローバルな Web サイトを構築し、言語コピー、ライブコピー、MSM を使用する方法を学びます。 セッションでは、高度な機能を使用して、より簡単、迅速、管理しやすいコンテンツ翻訳を実現する方法についても説明します。
+**Presented by:**
 
-**提示者：**
-
-* アンクル・シア、コンピューターサイエンティスト、Adobe
-* Harpreet Neelu、プログラムマネージャ、Adobe
+* Ankur Sial, Computer Scientist, Adobe
+* Harpreet Neelu, Program Manager, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/31153?quality=9)
 
-*配信済み01/22/2020*
+*Delivered 01/22/2020*
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/gems-2020-translations.pdf)
+[Get File](assets/gems-2020-translations.pdf)
 
-セッション Q および A - 2020 年 2 月PDF
+Session Q and A - February 2020 PDF
 
-[ファイルを入手](assets/aem-gems-translationqnafeb2020.pdf)
+[Get File](assets/aem-gems-translationqnafeb2020.pdf)

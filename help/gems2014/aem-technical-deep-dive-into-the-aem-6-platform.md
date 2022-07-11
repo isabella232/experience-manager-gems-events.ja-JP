@@ -1,39 +1,33 @@
 ---
-title: AEM 6 プラットフォームの技術的詳細
-description: 新しいリポジトリアーキテクチャを詳しく見て、開発者および運用チームの主な違いと改善点を学びます。
+title: Technical deep dive into the AEM 6 platform
+description: Deep dive into the new repository architecture and learn the key differences and improvements for developers and operations teams.
 uuid: 8038fb68-e841-4d35-affd-c32d53e4cc8f
 discoiquuid: 1374a0f7-4456-47ba-b061-1b6d67d12d55
 targetaudience: target-audience advanced
 exl-id: eb04fd9f-acc5-4ef2-afee-806d00b60326
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 4%
-
 ---
+# Technical deep dive into the AEM 6 platform{#technical-deep-dive-into-the-aem-platform}
 
-# AEM 6 プラットフォームの技術的詳細{#technical-deep-dive-into-the-aem-platform}
+AEM 6 comes with a fresh new repository backend designed for improved performance and scalability. This session will provide a deep dive into the new repository architecture and describe the key differences and improvements for developers and operations teams. Topics covered include: 
 
-AEM 6 には、パフォーマンスと拡張性を向上させるために設計された新しいリポジトリバックエンドが付属しています。 このセッションでは、新しいリポジトリアーキテクチャを詳しく説明し、開発者および運用チームの主な違いと改善点を説明します。 以下のトピックを取り上げます。
-
-* コンテンツの移行
-* 下位互換性
-* 主なデプロイメントシナリオ
-* カスタム検索インデックス
+* Content migration
+* Backwards compatibility
+* Key deployment scenarios
+* Custom search indexes
 
 >[!VIDEO](https://video.tv.adobe.com/v/19518/?quality=9)
 
-*2014 年 6 月 19 日*
+*Delivered June 18, 2014*
 
-**提示者：**
+**Presented by:**
 
-Jukka Zitting 氏、Adobe、シニアデベロッパー
+Jukka Zitting, Senior Developer, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
+[Get File](assets/technical-deep-dive-of-the-aem-6-platform.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-* [AEMアップグレードドキュメント](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
-* [ApacheCon「Oak, the architecture of Apache Jackrabbit 3」のプレゼンテーション](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)
+* [AEM Upgrade Documentation](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade.html)
+* [Presentation from ApacheCon "Oak, the architecture of Apache Jackrabbit 3"](http://www.slideshare.net/jukka/oak-the-architecture-of-apache-jackrabbit-3)

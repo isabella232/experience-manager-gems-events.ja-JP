@@ -1,46 +1,40 @@
 ---
-title: 'SPA Editor SDK の詳細 — 第 1 部 — React '
-description: AEMページエディターを使用して作成できる単一ページアプリケーションの開発について詳しく説明します。
+title: SPA Editor SDK Deep Dive - Part 1 - React 
+description: Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor.
 uuid: 535ebce7-bbd9-4e84-a7a8-52254d01550e
 discoiquuid: 4aac1fad-0b99-461b-8f09-6d775de5bbec
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 14%
-
 ---
 
+# SPA Editor SDK Deep Dive - Part 1 - React {#spa-editor-sdk-deep-dive-part-react}
 
-# SPA Editor SDK の詳細 — 第 1 部 — React {#spa-editor-sdk-deep-dive-part-react}
+Deep dive with us into the development of Single-Page-Applications that can be authored using the AEM Page Editor. In this session, you will have access to the following content:
 
-AEMページエディターを使用して作成できる単一ページアプリケーションの開発について詳しく説明します。 このセッションでは、次のコンテンツにアクセスできます。
-
-* プロジェクトの構造に関する考慮事項および推奨事項
-* プロジェクトのアーキテクチャを構成するすべてのレイヤーのレビュー
-* AEMおよびSPAコンポーネントの役割に関するインサイト
-* モデルオブジェクトの構造とキー JSON フィールド
-* 便利なコードスニペット
-* SDK が提供するコンポーネントのツアー
-* 主な実装の詳細
+* Considerations and recommendations about the structure of projects
+* Review of all the layers that compose the architecture of a project
+* Insight into the role of AEM and SPA components
+* Structure and key JSON fields of the model object
+* Useful code snippets
+* Tour of the components provided by the SDK
+* Key implementation details
 
 >[!VIDEO](https://video.tv.adobe.com/v/25194/?quality=9)
 
-*配信済み10/31/18*
+*Delivered 10/31/18*
 
-提示者：Patrick Fauchere 氏 (Adobe、エンジニアリングマネージャ )
+Presented by: Patrick Fauchere, Engineering Manager, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
+[Get File](assets/aem-gems-spa-editordeepdive-react-10312018.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-[週末のチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ja)
+[Weekend Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
-[ドキュメント](https://helpx.adobe.com/jp/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
-[サンプル — We 小売ジャーナル](https://github.com/adobe/aem-sample-we-retail-journal)
+[Sample - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

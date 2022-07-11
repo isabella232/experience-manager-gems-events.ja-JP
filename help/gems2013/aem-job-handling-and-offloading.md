@@ -1,41 +1,35 @@
 ---
-title: AEM 5.6.1 でのジョブ処理とオフロードの概要です。
-description: 高度なジョブ処理機能の技術的な紹介を受けます。 ジョブ処理は、レプリケーションやワークフロー処理などの機能の基盤となるインフラストラクチャです。 ジョブ処理 API の改善と新機能に加えて、検出モジュールについて説明します。
+title: Introduction to job handling and offloading in AEM 5.6.1.
+description: Get a technical introduction of the advanced job handling features. Job handling is the underlying infrastructure for features like replication and workflow processing. Learn about the discovery module alongside with the improved job processing API and new features.
 uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: 9fa2f9a8-86de-4791-ac40-6406e0336e08
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 6%
-
 ---
+# Introduction of Job Handling and Offloading in AEM 5.6.1. {#introduction-of-job-handling-and-offloading-in-aem}
 
-# AEM 5.6.1 でのジョブ処理とオフロードの概要です。 {#introduction-of-job-handling-and-offloading-in-aem}
-
-ジョブ処理は、レプリケーションやワークフロー処理などの機能の基盤となるインフラストラクチャです。 これは、高度なジョブ処理機能の技術的な紹介です。 新しい検出モジュールと、改善されたジョブ処理 API および新機能について説明します。 オフロードフレームワークは、ジョブの処理と検出の上に構築され、非クラスターインスタンス間でのジョブの配布に重点を置いています。 オフロードが分散ジョブ処理をどのように拡張するかを詳しく見ていきます。 次に、現在のワークフローのオフロードの実装での使用方法と、独自のプロジェクトでの使用方法を見てみましょう。
+Job handling is the underlying infrastructure for features like replication and workflow processing. This is a technical introduction of the advanced job handling features. We discuss the new discovery module alongside with the improved job processing API and the new features. Building on top of the job handling and discovery, the offloading framework focuses on distributing jobs among non-clustered instances. We'll take a closer look into how offloading extends the distributed job handling. Then we look at how it's used for the current implementation of workflow offloading and how one can use it in its own project. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/19580/?quality=9)
 
-*2013 年 7 月 24 日配信*
+*Delivered July 24, 2013*
 
-**提示者：**
+**Presented by:**
 
-Adobe、シニアデベロッパー、Carsten Ziegeler 氏
+Carsten Ziegeler, Senior Developer, Adobe
 
-Marc Pfaff、リード開発者、Adobe
+Marc Pfaff, Lead Developer, Adobe
 
-発表者のスライド — 第 1 部
+Presenter slides - Part 1
 
-[ファイルを入手](assets/jobhandling.pdf)
+[Get File](assets/jobhandling.pdf)
 
-発表者のスライド — 第 2 部
+Presenter slides - Part 2
 
-[ファイルを入手](assets/offloading.pdf)
+[Get File](assets/offloading.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
 * [Apache Sling Eventing and Jobhandling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [Discovery API とその実装](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [ジョブのオフロード](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)
+* [Discovery API and its implementations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Offloading Jobs](http://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

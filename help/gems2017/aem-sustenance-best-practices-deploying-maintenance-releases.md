@@ -1,33 +1,27 @@
 ---
-title: AEMのメンテナンス — AEMメンテナンスリリースのデプロイのベストプラクティス
-description: AEMメンテナンスリリース (Service Packs & Cumulative Fix Pack) のデプロイに関するベストプラクティスをご確認ください。 また、デプロイに伴う一般的な課題について説明し、パッケージマネージャで行われた改善を示します。 このセッションでは、メンテナンスリリースのデプロイメントに関するベストプラクティス、検証、監視のヒントについて学びます。
+title: AEM sustenance - Best practices for deploying AEM maintenance releases
+description: Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 1%
-
 ---
 
+# AEM sustenance - Best practices for deploying AEM maintenance releases{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
 
-# AEMのメンテナンス — AEMメンテナンスリリースのデプロイのベストプラクティス{#aem-sustenance-best-practices-for-deploying-aem-maintenance-releases}
-
-AEMメンテナンスリリース (Service Packs &amp; Cumulative Fix Pack) のデプロイに関するベストプラクティスをご確認ください。 また、デプロイに伴う一般的な課題について説明し、パッケージマネージャで行われた改善を示します。 このセッションでは、メンテナンスリリースのデプロイメントに関するベストプラクティス、検証、監視のヒントについて学びます。
+Join us to know the best practices for deploying AEM Maintenance Releases i.e. Service Packs & Cumulative Fix Packs. We will also cover the common challenges in deploying them and demonstrate improvements done in package manager. In this session you will learn best practices, validations and monitoring tips for deployments of maintenance releases.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18982/?quality=9)
 
-*2017 年 6 月 29 日*
+*Delivered June 28,2017*
 
-**提示者：**
+**Presented by:**
 
-* Gurpreet Singh Bhatia 氏 (AEM Sustaining Engineering、Adobe)、ソフトウェアエンジニア、リード
-* Karanjeet Singh 氏 (Adobe、AEM Sustining Engineering、上級ソフトウェアエンジニア )
+* Gurpreet Singh Bhatia, Lead Software Engineer, AEM Sustaining Engineering, Adobe
+* Karanjeet Singh, Senior Software Engineer, AEM Sustaining Engineering, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/aem-sustenance-best-practices-gems.pdf)
+[Get File](assets/aem-sustenance-best-practices-gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

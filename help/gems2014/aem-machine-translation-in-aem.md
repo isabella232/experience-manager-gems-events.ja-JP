@@ -1,41 +1,35 @@
 ---
-title: AEMでの機械翻訳
-description: AEMとMicrosoft Translator が機械翻訳を提供し、Search Engine Optimization を通じて、コンテンツのリーチを拡大し、コンテンツの市場投入時間を増やし、コストを最適化し、ユーザーの検出性を高め、リソースの使用率と ROI を向上させる方法を説明します。
+title: Machine translation in AEM
+description: Learn how AEM and Microsoft Translator deliver machine translation to enable you to extend the reach of your content, increase time to market for content, optimize costs, and increase discoverability by users through Search Engine Optimization resulting in better use of resources and increased ROI.
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
 exl-id: 860add68-20f4-48ea-9e92-0c75b8657f1a
-source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
-workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 2%
-
 ---
+# Machine translation in AEM{#machine-translation-in-aem}
 
-# AEMでの機械翻訳{#machine-translation-in-aem}
-
-Adobe Experience Managerでは、Microsoft Translator を使用して、完全に統合され、カスタマイズされた機械翻訳機能を使用して、ユーザー生成およびオーサリングされたコンテンツを 45 以上の言語にローカライズできます。 このセッションでは、AEMとMicrosoft Translator が機械翻訳を提供し、Search Engine Optimization を通じてコンテンツのリーチを拡大し、コンテンツの市場投入時間を増やし、コストを最適化し、ユーザーの発見性を高め、リソースの使用率と ROI を向上させる方法を学びます。 AEM内でのサービスの有効化、コンテンツのローカライズ、Microsoft Translator のカスタマイズツールを使用した、業界、言語、ドメイン、組織のニーズに合った好みの用語とスタイルを使用した独自の翻訳システムの構築方法に関するデモを視聴します。
+Adobe Experience Manager enables you to localize user-generated and authored content with fully integrated and customized machine translation functionality in more than 45+ languages using Microsoft Translator. In this session, you learn how AEM and Microsoft Translator deliver machine translation to enable you to extend the reach of your content, increase time to market for content, optimize costs, and increase discoverability by users through Search Engine Optimization resulting in better use of resources and increased ROI. Watch demos on how to enable the service within AEM, localize content, and discover how customization tools from Microsoft Translator enable you to build your own translation system using your preferred terminology and style specific to your industry, linguistic, domain, or organizational needs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19383/?quality=9)
 
-*配信日： 2014 年 12 月 3 日*
+*Delivered December 3, 2014*
 
-**提示者：**
+**Presented by:**
 
-* Akshay Madan 氏 ( 主要な Product Manager、多言語製品管理およびソリューション、Adobe)
-* Chris Wendt 氏 (Microsoft、Microsoft・トランスレーター、プリンシパル・グループ・プログラム・マネージャ )
+* Akshay Madan, Principal Product Manager Multilingual Product Management & Solutions, Adobe
+* Chris Wendt, Principal Group Program Manager Microsoft Translator, Microsoft
 
-発表者スライド —Adobe
+Presenter slides - Adobe
 
-[ファイルを入手](assets/aem-gems-machine-translation-12-03-14.pdf)
+[Get File](assets/aem-gems-machine-translation-12-03-14.pdf)
 
-発表者のスライド — Microsoft
+Presenter slides - Microsoft
 
-[ファイルを入手](assets/adobe-microsoft-gems-12-03-14.pdf)
+[Get File](assets/adobe-microsoft-gems-12-03-14.pdf)
 
-**セッションに関する質問と回答**
+**Session Questions and Answers**
 
-[ファイルを入手](assets/q-a-machine-translation-12-3-14.pdf)
+[Get File](assets/q-a-machine-translation-12-3-14.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

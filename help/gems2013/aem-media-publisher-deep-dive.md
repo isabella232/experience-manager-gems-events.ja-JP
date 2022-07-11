@@ -1,35 +1,29 @@
 ---
-title: AEM 5.6 Media Publisher の詳細
-description: CQ 5.6 Commerce Framework の概要を、アーキテクチャの観点から確認します。 JCR リポジトリに基づく参照実装の詳細について説明します。
+title: AEM 5.6 Media Publisher deep dive
+description: Get an overview of the CQ 5.6 Commerce Framework from an architectural perspective. Learn the details of the reference implementation, based on the JCR repository.
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
 exl-id: 4efa0469-a5fd-41c9-9702-7de0fbc9db5a
-source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
-workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 6%
-
 ---
+# AEM 5.6 Media Publisher deep dive {#aem-media-publisher-deep-dive}
 
-# AEM 5.6 Media Publisher の詳細 {#aem-media-publisher-deep-dive}
-
-CQ 5.6 は、Adobe Experience Managerの一部として、サードパーティのコマースプラットフォーム上に Experience Driven Commerce Web サイトを構築するための新しいコマースフレームワークを提供します。 このセッションでは、フレームワークの概要をアーキテクチャの観点から説明し、JCR リポジトリに基づく参照実装の詳細を示します。
+As part of Adobe Experience Manager, CQ 5.6 provides a new Commerce Framework to build Experience Driven Commerce websites on top of a third-party commerce platform. This session provides an overview of the framework from an architectural perspective and presents some details of the reference implementation, based on the JCR repository.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19574/?quality=9)
 
-*2013 年 4 月 18 日*
+*Delivered April 17, 2013*
 
-**提示者：**
+**Presented by:**
 
 John Fait
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
+[Get File](assets/cq-gems-aem-media-publisher-04-17-2013-final.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-* [ドキュメント](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
-* [DPS 製品ページ](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [DPSCloud Service](https://digitalpublishing.acrobat.com/ja/welcome.html)
+* [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
+* [DPS Product Page](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
+* [DPS Cloud Service](https://digitalpublishing.acrobat.com/welcome.html)

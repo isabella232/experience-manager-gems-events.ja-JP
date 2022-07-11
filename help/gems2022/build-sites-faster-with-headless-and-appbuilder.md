@@ -1,6 +1,6 @@
 ---
-title: AEMヘッドレスと App Builder を使用して、より迅速に Web サイトを構築
-description: Adobeの App Builder ワークフローアントツールを使用して、シングルページアプリ (SPA) をすばやくブートストラップおよびデプロイする方法に関するプレゼンテーションとデモを視聴します。
+title: Build websites faster with AEM Headless and App Builder
+description: Watch a presentation and demo about how to quickly bootstrap and deploy single-page app (SPA) using Adobe App Builder workflows ant tools.
 version: Cloud Service, 6.5
 feature: App Builder
 topic: Headless
@@ -8,26 +8,20 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 92f46eab76b1a89216039d830b1683d259d3db44
-workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
-
 ---
 
+# Build websites faster with AEM Headless and App Builder
 
-# AEMヘッドレスと App Builder を使用して、より迅速に Web サイトを構築
+This AEM GEMs webinar recording includes a presentation and demo on the following:
 
-このAEM GEMs ウェビナーの録画には、以下に関するプレゼンテーションとデモが含まれています。
-
-Java や Sling などの従来のExperience Managerスキルが必要なく、Adobeの App Builder ワークフローやツールを使用して、単一ページアプリ (SPA) をすばやくブートストラップおよびデプロイします。 Experience Managerヘッドレスを使用すると、マーケターや開発者は、独自のドメインに関する専門知識を持つことができます。 開発者がアプリケーションのフレームワーク全体を制御し、マーケターがコンテンツとその表示方法を決定します。
+Quickly bootstrap and deploy single-page apps (SPA) using Adobe App Builder workflows and tools, without traditional Experience Manager skills, like Java and Sling, being required. With Experience Manager Headless, marketers and developers can have expertise in their own domain. Developers control the overall application framework while marketers determine the content and how it’s displayed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341311/?quality=12&learn=on)
 
-このウェビナーは 2022 年 3 月 23 日に実施され、ソフトウェア開発エンジニアの Duy Nguyen 氏が発表しました
+This webinar was conducted on March 23rd, 2022 and presented by Duy Nguyen, Software Development Engineer
 
 >[!MORELIKETHIS]
 >
->* [対応するAdobe Experience Managerユーザーグループイベントページ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
->* [対応するコンテキストスレッド](https://adobe.ly/3LkSWdm)
->* 登録は次の場所でおこなってください： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/) 今後のウェビナーの通知を受け取る
+>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)
+>* [Corresponding Contextual Thread](https://adobe.ly/3LkSWdm)
+>* Please register at [Adobe's AEM User Group](https://aem-augs.adobe.com/) to get notified about upcoming webinars.

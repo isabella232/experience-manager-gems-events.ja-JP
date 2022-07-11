@@ -1,34 +1,28 @@
 ---
-title: AEM 6 の Social コンポーネントフレームワーク
-description: AEM 6 で Social コンポーネントフレームワークを使用および拡張する方法について説明します。 使用可能なドキュメントとクックブックに関する情報を取得します。
+title: Social Component Framework in AEM 6
+description: Learn how to use and extend Social Component Framework in AEM 6. Get information on the documentation and cookbooks available.
 uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 31be54b9-ba72-4574-a413-ecd09196a220
-source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
-workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 5%
-
 ---
+# Social Component Framework in AEM 6{#social-component-framework-in-aem}
 
-# AEM 6 の Social コンポーネントフレームワーク{#social-component-framework-in-aem}
-
-SCF は、CQ 5.6.1 の機能パックとして利用でき、AEM 6.0 に付属しています。SCF は、検索エンジンでコンテンツを最適化し、ページの更新を避け、ページ内の豊富なエクスペリエンスを提供する、サーバーレンダリングのハイブリッドを使用する Web およびモバイルアプリケーションを構築します。 同じテンプレートをクライアントとサーバーの両方のレンダリングに使用して、使用するレンダリングとは無関係に、エクスペリエンスの一貫性が確保されます。 明確に定義されたエンドポイントは、ページ、テンプレート、json データの効果的なキャッシュを可能にし、顧客が独自のクライアントロジックとサーバーロジックを挿入するための明確な拡張パターンを提供します。 このセッションでは、SCF の使用方法と拡張方法を説明し、利用可能なドキュメントとクックブックに関する情報を提供します。
+The Social Component Framework (SCF) is available as a featurepack for CQ 5.6.1 and shipped with AEM 6.0. SCF provides a way to build web and mobile applications that use a hybrid of server rendering to allow search engine optimization of content along with client rendering to avoid page refreshes and provide rich in-page experiences. The same template is used for both client and server rendering, providing assurance that the experience is consistent independent of which rendering is used. Well-defined endpoints allow effective caching of pages, templates and json data, and provide clear extensibility patterns for customers to insert their own client and server logic. This session will cover how to use and extend SCF, and provide information on the documentation and cookbooks available.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19464/?quality=9)
 
-*2014 年 8 月 14 日*
+*Delivered August 13, 2014*
 
-**提示者：**
+**Presented by:**
 
-Siddharth Palaniswami 氏、Sr. Software Engineering Lead、Adobe
+Siddharth Palaniswami, Sr. Software Engineering Lead, Adobe
 
-**発表者のスライド**
+**Presenter slides**
 
-[ファイルを入手](assets/scf-gems.pdf)
+[Get File](assets/scf-gems.pdf)
 
-## 関連リンク {#related-links}
+## Related links {#related-links}
 
-* [コードサンプルの GitHub リンク](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [ソーシャルコンポーネントフレームワーク](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Github link for code sample](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
+* [Social Component Framework](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
