@@ -8,31 +8,31 @@ exl-id: b3cb97da-1b9e-4bdf-85e3-b438822baba0
 source-git-commit: 93072cbc6ca3f4bded2aeb1e8e92a2345ce4623f
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # AEM 6.0 開発者モード{#aem-developer-mode}
 
-David は、AEM 6.O の開発者モードを紹介します。開発者モードは次のとおりです。
+AEM 6.0 の開発者モードについて David が紹介します。開発者モードは、次のことが可能です。
 
-* 作成者と開発者（コンポーネントツリー）の間のブリッジ
-* デバッグヘルパー（エラー通知子）
-* テストコンパニオン（アプリケーションテストツール）(Hobbes.js AEM Implementation)
+* 作成者と開発者（コンポーネントツリー）の間の橋渡し
+* デバッグヘルパー（エラー通知）
+* テストコンパニオン（アプリケーションテストツール）（Hobbes.js AEM 実装）
 
 >[!VIDEO](https://video.tv.adobe.com/v/19501/?quality=9)
 
-*配信日： 2014 年 7 月 17 日*
+*2014年7月16日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-David Catalan 氏、QE デベロッパー、Adobe
+アドビ、QE デベロッパー、David Catalan
 
 **発表者のスライド**
 
 [ファイルを入手](assets/aem-6-developer-mode-07-16-14.pdf)
 
-**セッションに関する質問と回答**
+**セッションの質問と回答**
 
 [ファイルを入手](assets/q-a-developer-mode-7-16-14.pdf)
 <!--

@@ -1,33 +1,33 @@
 ---
-title: ContextHub のストア、モジュール、セグメントの実装の詳細について詳しく見る
-description: この Gems セッションでは、異なる永続性レイヤーを使用して、様々なタイプの ContextHub ストアの実装の詳細を詳しく調べることを目的としています。 カスタムモジュールの実装（コードを介した実装と、基本モジュールレンダラーを使用した設定の両方）、および別々の ContextHub モードでモジュールを整理する方法。 最後に、ContextHub セグメント特性の仕組み、カスタム比較器の実装方法、およびセグメントをプログラムによってインスタンス化する方法を確認します。
+title: ContextHub のストア、モジュール、セグメントの実装の詳細
+description: この Gems セッションでは、様々なタイプの ContextHub ストアの実装の詳細について、様々な永続レイヤーを使って詳しく見ていきます。カスタムモジュールの実装（コードを介した実装と、基本モジュールレンダラーを使用した設定の両方）、および別々の ContextHub モードでモジュールを整理する方法を説明します。最後に、ContextHub セグメント特性の動作の仕組み、カスタムコンパレーターの実装方法、セグメントをプログラムによってインスタンス化する方法を確認します。
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# ContextHub のストア、モジュール、セグメントの実装の詳細について詳しく見る{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
+# ContextHub のストア、モジュール、セグメントの実装の詳細{#deep-dive-on-implementation-details-of-stores-modules-and-segments-in-contexthub}
 
-この Gems セッションでは、異なる永続性レイヤーを使用して、様々なタイプの ContextHub ストアの実装の詳細を詳しく調べることを目的としています。 カスタムモジュールの実装（コードを介した実装と、基本モジュールレンダラーを使用した設定の両方）、および別々の ContextHub モードでモジュールを整理する方法。 最後に、ContextHub セグメント特性の仕組み、カスタム比較器の実装方法、およびセグメントをプログラムによってインスタンス化する方法を確認します。
+この Gems セッションでは、様々なタイプの ContextHub ストアの実装の詳細について、様々な永続レイヤーを使って詳しく見ていきます。カスタムモジュールの実装（コードを介した実装と、基本モジュールレンダラーを使用した設定の両方）、および別々の ContextHub モードでモジュールを整理する方法を説明します。最後に、ContextHub セグメント特性の動作の仕組み、カスタムコンパレーターの実装方法、セグメントをプログラムによってインスタンス化する方法を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27010/?quality=9)
 
-*配信済み03/20/19*
+*2019年3月20日（PT）に配信*
 
-**提示者：** Artur Kudlacz、デベロッパー、Adobe
+**発表者：**&#x200B;アドビ、デベロッパー、Artur Kudlacz
 
-発表者スライド、日付：03/20/2019
+発表者のスライド、日付：2019年3月20日（PT）
 
 [ファイルを入手](assets/aem-gems-contexthubdeepdive-03202019.pdf)
 
 ContextHub サンプルパッケージ：
 
-Artur で言及されている ContextHub サンプルパッケージは、以下の場所で入手できます。
+Artur が言及している ContextHub サンプルパッケージは、次の場所で入手できます。
 
 [https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive](https://github.com/grubyak/aem/tree/master/content-packages/gems/2019-03-20-contexthub-deep-dive)

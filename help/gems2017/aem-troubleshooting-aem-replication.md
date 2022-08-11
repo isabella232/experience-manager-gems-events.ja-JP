@@ -1,6 +1,6 @@
 ---
-title: AEM Replication のトラブルシューティング
-description: レプリケーションは、AEMの中央の機能で、オーサリング済みのコンテンツをパブリッシュインスタンスに公開できる点です。 このセッションでは、レプリケーションで最も一般的な問題のトラブルシューティングと対応の方法について分析します。
+title: AEM レプリケーションのトラブルシューティング
+description: レプリケーションは、AEM の主要機能であり、作成済みのコンテンツをパブリッシュインスタンスに公開できます。このセッションでは、レプリケーションで最も一般的な問題のトラブルシューティングと対応方法について分析します。
 uuid: 4e4a3dc8-eb1c-4c28-a7c1-1c8c2e084e7b
 content-type: troubleshooting
 topic-tags: troubleshoot
@@ -9,20 +9,20 @@ targetaudience: target-audience new;target-audience ongoing
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# AEM Replication のトラブルシューティング{#troubleshooting-aem-replication}
+# AEM レプリケーションのトラブルシューティング{#troubleshooting-aem-replication}
 
-レプリケーションは、AEMの中央の機能で、オーサリング済みのコンテンツをパブリッシュインスタンスに公開できる点です。 このセッションでは、レプリケーションで最も一般的な問題のトラブルシューティングと対応の方法について分析します。
+レプリケーションは、AEM の主要機能であり、作成済みのコンテンツをパブリッシュインスタンスに公開できます。このセッションでは、レプリケーションで最も一般的な問題のトラブルシューティングと対応方法について分析します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19282/?quality=9)
 
-*2017 年 7 月 26 日於：*
+*2017年7月26日（PT）に配信*
 
-**Tommaso Teofili 氏 ( デベロッパー、Adobe)**
+**アドビ、デベロッパー、Tommaso Teofili**
 
 **発表者のスライド**
 
@@ -37,7 +37,7 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
->* [AEM Replication のトラブルシューティング](aem-troubleshooting-aem-replication.md)
->* [Adobe Experience Manager:AEM 6.x のメンテナンスタスク](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
+>* [AEM のインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
+>* [AEM レプリケーションのトラブルシューティング](aem-troubleshooting-aem-replication.md)
+>* [Adobe Experience Manager：AEM 6.x のメンテナンスタスク](https://helpx.adobe.com/jp/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 

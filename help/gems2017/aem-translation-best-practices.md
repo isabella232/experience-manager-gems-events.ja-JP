@@ -1,29 +1,29 @@
 ---
-title: AEM 6.3 対応 — 翻訳の統合とベストプラクティス
-description: 'このセッションでは、多言語の Web サイトを管理するためのAEM 6.3 の機能とベストプラクティスを示します。 AEMでグローバル Web サイトを構築する方法、言語コピー、ライブコピーおよび MSM の使用方法、翻訳プロジェクトを正常に完了するための翻訳サービスプロバイダーの統合方法について説明します。 '
+title: AEM 6.3 のグローバル対応 - 翻訳の統合とベストプラクティス
+description: 'このセッションでは、現在の AEM 6.3 の機能と、多言語 web サイトを管理するためのベストプラクティスを紹介します。AEM でグローバル web サイトを構築する方法、言語コピー／ライブコピー／MSM の使用方法、翻訳サービスプロバイダーを統合して翻訳プロジェクトを成功に導く方法などをご確認ください。 '
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
-# AEM 6.3 対応 — 翻訳の統合とベストプラクティス{#aem-ready-for-the-world-translation-integration-best-practices}
+# AEM 6.3 のグローバル対応 - 翻訳の統合とベストプラクティス{#aem-ready-for-the-world-translation-integration-best-practices}
 
-このセッションでは、多言語の Web サイトを管理するためのAEM 6.3 の機能とベストプラクティスを示します。 AEMでグローバル Web サイトを構築する方法、言語コピー、ライブコピーおよび MSM の使用方法、翻訳プロジェクトを正常に完了するための翻訳サービスプロバイダーの統合方法について説明します。
+このセッションでは、現在の AEM 6.3 の機能と、多言語 web サイトを管理するためのベストプラクティスを紹介します。AEM でグローバル web サイトを構築する方法、言語コピー／ライブコピー／MSM の使用方法、翻訳サービスプロバイダーを統合して翻訳プロジェクトを成功に導く方法などをご確認ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21532/?quality=9)
 
-*2017 年 10 月 25 日*
+*2017年10月25日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Leandro Reis、グローバル化アーキテクト、Adobeコアサービス\
-Mathias Siegel 氏（シニアプロダクトマネージャー） [!DNL AEM Sites],Adobe
+アドビコアサービス、グローバル化アーキテクト、Leandro Reis\
+アドビ、[!DNL AEM Sites] 担当シニア製品マネージャー、Mathias Siegel
 
 **発表者のスライド**
 
@@ -31,6 +31,6 @@ Mathias Siegel 氏（シニアプロダクトマネージャー） [!DNL AEM Sit
 
 ## 関連リンク {#related-links}
 
-* [AEM Sites Translation Documents](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
+* [AEM Sites の翻訳ドキュメント](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
 * [多言語アセットの管理](https://docs.adobe.com/docs/ja/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [翻訳のベストプラクティスドキュメント](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+* [翻訳ベストプラクティスのドキュメント](https://helpx.adobe.com/jp/experience-manager/6-3/sites/administering/using/tc-bp.html)

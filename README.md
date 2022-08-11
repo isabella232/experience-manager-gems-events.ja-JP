@@ -2,12 +2,12 @@
 source-git-commit: 6cb7cbce469afcefbdf767aff74858f147fc8593
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 # 記事の寄稿
 
-プッシュをテストします。
+プッシュのテスト。
 
 アドビでは、コミュニティおよびドキュメントチーム以外のアドビ社員からの寄稿を歓迎します。
 

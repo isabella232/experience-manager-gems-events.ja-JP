@@ -1,6 +1,6 @@
 ---
 title: お知らせ
-description: このページは、今後のセッションがまだ定義されていない場合に表示されます。
+description: このページは、今後のセッションがまだ決まっていない場合に表示されます。
 version: Experience Manager
 feature: Release Information
 topic: Administration
@@ -9,7 +9,7 @@ level: Intermediate
 source-git-commit: d0fef69c8934fdbb79fc1768f7e3eb673891b5d4
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 47%
 
 ---
 

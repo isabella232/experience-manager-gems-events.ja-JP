@@ -1,6 +1,6 @@
 ---
-title: AEM Tech Sneak Peek
-description: 次世代のAdobe Experience Managerでの技術的な講演で、現在の取り組みの内容をご覧ください。
+title: AEM 技術 Sneak Peek
+description: 次世代の Adobe Experience Manager に向けて取り組んできたことを、テクニカルトークでいち早く紹介します。
 uuid: a0eae408-c0a2-44a4-abca-040895955570
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
@@ -8,21 +8,21 @@ exl-id: 4724b377-0954-49f2-8003-59861284209e
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# AEM Tech Sneak Peek{#aem-tech-sneak-peek}
+# AEM 技術 Sneak Peek{#aem-tech-sneak-peek}
 
-次世代のAdobe Experience Managerでの技術的な講演で、現在の取り組みの内容をご覧ください。
+次世代の Adobe Experience Manager に向けて取り組んできたことを、テクニカルトークでいち早く紹介します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*配信日：2015 年 1 月 22 日*
+*2015年1月21日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-* Gabriel Walt 氏 (Adobe、プロダクトマネージャ )
+* アドビ、製品マネージャー、Gabriel Walt
 
 **発表者のスライド**
 

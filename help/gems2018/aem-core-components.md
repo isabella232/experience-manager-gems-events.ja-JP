@@ -1,31 +1,31 @@
 ---
 title: AEM コアコンポーネント
-description: コアコンポーネントとその関連機能、動作の仕組み、ゲームの変更方法について、すべての内容を学びます。 作成および維持する必要のあるコンポーネントの数を一定の規模で減らすための戦略を理解します。
+description: コアコンポーネントとその関連機能、動作の仕組み、変革をもたらす方法などについて、あらゆることを学びます。作成と保守に必要なコンポーネントの数を大幅に減らす戦略を理解します。
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 source-git-commit: 811329e02cc9b2b961599d5751d4dcc6886eb3d7
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
 # AEM コアコンポーネント{#aem-core-components}
 
-コアコンポーネントとその関連機能、動作の仕組み、ゲームの変更方法について、すべての内容を学びます。 作成および維持する必要のあるコンポーネントの数を一定の規模で減らすための戦略を理解します。
+コアコンポーネントとその関連機能、動作の仕組み、変革をもたらす方法などについて、あらゆることを学びます。作成と保守に必要なコンポーネントの数を大幅に減らす戦略を理解します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25674/)
 
-*配信済み12/5/18*
+*2018年5月12日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Gabriel Walt 氏 (Adobe、プロダクトマネージャ )
+アドビ、製品マネージャー、Gabriel Walt
 
-[AEM コアコンポーネントドキュメント](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[AEM コアコンポーネントドキュメント](https://helpx.adobe.com/jp/experience-manager/core-components/user-guide.html)
 
-AEM Gems - AEMコアコンポーネント — 日付：12/05/2018
+AEM Gems - AEM コアコンポーネント - 日付：2018年5月12日（PT）
 
 [ファイルを入手](assets/aem-gems-aem-sitescorecomponents-12052018.pdf)

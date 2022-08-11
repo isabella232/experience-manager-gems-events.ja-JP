@@ -1,6 +1,6 @@
 ---
-title: AEM Query and Index Troubleshooting
-description: これは、昨年のセッション「AEM Indexing」と「JCR Query」の継続です。 同じトピックについて扱いますが、全く新しいコンテンツを含み、古いプレゼンテーションとの重複はほとんどありません。 また、AEM 6.4 の新機能も含まれています。
+title: AEM クエリとインデックスのトラブルシューティング
+description: このセッションは、昨年行われた「AEM のインデックス作成と JCR クエリ」の続編です。同じトピックを扱いますが、全く新しい内容であり、旧プレゼンテーションとの重複はほとんどありません。また、AEM 6.4 の新機能も紹介します。
 page-status-flag: never-activated
 uuid: 6ba07490-1b55-4209-bb89-bad35d73297e
 deleted: 2018-08-14T03 02 22.818-0400
@@ -10,22 +10,22 @@ targetaudience: target-audience advanced
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# AEM Query and Index Troubleshooting{#aem-query-and-index-troubleshooting}
+# AEM クエリとインデックスのトラブルシューティング{#aem-query-and-index-troubleshooting}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23270/?quality=9)
 
-*配信済み08/08/2018*
+*2018年8月8日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Thomas Mueller 氏 (Adobe、上級ソフトウェアエンジニア )
+アドビ、シニアソフトウェアエンジニア、Thomas Mueller
 
-日付：08/08/2018
+日付：2018年8月8日（PT）
 
 [ファイルを入手](assets/20180808-gems-adobe+cloud+platform-experience+system+of+record-1.pdf)
 

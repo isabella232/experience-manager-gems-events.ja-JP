@@ -1,6 +1,6 @@
 ---
-title: SharePoint Connector — セットアップと設定
-description: 'CQ/AEM(5.6.0) で Share コネクタを設定する手順を説明し、いくつかの例を示すデモを提供します。 AdobeのSharePoint Connector では、標準の JCR インターフェイスを介してコンテンツを公開するので、独自のリポジトリに存在するコンテンツにアプリケーションが標準化された方法でアクセスでき、コンテンツへのアクセスが簡単になります。 '
+title: SharePoint コネクタ - セットアップと設定
+description: 'CQ／AEM（5.6.0）で Share コネクタをセットアップして設定する手順を、いくつかの例のデモを交えて順を追って説明します。アドビの SharePoint コネクタでは、標準の JCR インターフェイスを介してコンテンツを公開するので、独自のリポジトリに存在するコンテンツにアプリケーションが標準化された方法でアクセスでき、コンテンツへのアクセスを簡素化できます。 '
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
@@ -8,26 +8,26 @@ exl-id: db54f5e6-41ab-4319-80d1-710f712be3a2
 source-git-commit: 6d504ea3091265bba4c1d9d91ea3d704455a195f
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# SharePoint Connector — セットアップと設定{#sharepoint-connector-setup-and-configuration}
+# SharePoint コネクタ - セットアップと設定{#sharepoint-connector-setup-and-configuration}
 
-AdobeのSharePoint Connector では、標準の JCR インターフェイスを介してコンテンツを公開するので、独自のリポジトリに存在するコンテンツにアプリケーションが標準化された方法でアクセスでき、コンテンツへのアクセスが簡単になります。 このセッションでは、CQ/AEM(5.6.0) で Share Connector を設定する方法に関する詳しいガイドラインと、次の例のデモを提供します。
+アドビの SharePoint コネクタでは、標準の JCR インターフェイスを介してコンテンツを公開するので、独自のリポジトリに存在するコンテンツにアプリケーションが標準化された方法でアクセスでき、コンテンツへのアクセスを簡素化できます。このセッションでは、CQ／AEM（5.6.0）で Share コネクタをセットアップして設定する手順を、いくつかの例のデモを交えて順を追って説明します。
 
-* SharePointからのコンテンツとメタデータの読み取り
-* SharePointドキュメントライブラリへのファイルおよびフォルダーの書き込み
-* SharePointシステムでのクエリの実行
-* SharePointのお知らせの操作
+* SharePoint からのコンテンツおよびメタデータの読み取り
+* SharePoint ドキュメントライブラリへのファイルおよびフォルダーの書き込み
+* SharePoint システムでのクエリの実行
+* SharePoint のお知らせの使用
 
 >[!VIDEO](https://video.tv.adobe.com/v/19525/?quality=9)
 
-*2014 年 1 月 30 日*
+*2014年1月29日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Tarun Aggarwal 氏 (Adobe、ソフトウェアエンジニアリード )
+アドビ、リードソフトウェアエンジニア、Tarun Aggarwal
 
 **発表者のスライド**
 

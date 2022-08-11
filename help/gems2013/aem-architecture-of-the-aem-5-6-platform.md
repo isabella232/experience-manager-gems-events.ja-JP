@@ -1,6 +1,6 @@
 ---
 title: AEM 5.6 プラットフォームのアーキテクチャ
-description: AEMアプリケーションプラットフォームのアーキテクチャの進化について説明します。 AEM 5.6 の最新のリリースまでの Communiqué 1 の最初のリリース以降、アプリケーションは、現在の汎用性と拡張性の高いアプリケーションプラットフォームになるために、いくつかの変更を受けました。
+description: AEM アプリケーションプラットフォームのアーキテクチャの進化について説明します。AEM は、Communiqué 1 の最初のリリースから、AEM 5.6 の最新のローンチまで何度も変更が加えられ、現在の汎用性と拡張性の高いアプリケーションプラットフォームとなりましまた。
 uuid: 6c7d287b-4dec-4ea8-9731-881c736429d9
 discoiquuid: 3049a99b-1ee0-492d-80c3-4d31d70fa452
 targetaudience: target-audience advanced
@@ -8,21 +8,21 @@ exl-id: 5e4c5722-671e-49c7-bb0c-530b387500e6
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # AEM 5.6 プラットフォームのアーキテクチャ{#architecture-of-the-aem-platform}
 
-AEM Application Platform のアーキテクチャの進化について説明します。 AEM 5.6 の最新の起動までの Communiqué 1 の最初のリリース以降、アプリケーションは、現在の汎用性と拡張性の高いアプリケーションプラットフォームになるために、いくつかの大規模な変更を受けました。
+AEM アプリケーションプラットフォームのアーキテクチャの進化について説明します。AEM はCommuniqué 1 の最初のリリースから、AEM 5.6 の最新のローンチまで何度も大きな変更が加えられ、現在の汎用性と拡張性の高いアプリケーションプラットフォームとなりましまた。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19575/?quality=9)
 
-*2013 年 5 月 9 日*
+*2013年5月8日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Felix Meschberger 氏、Adobe
+アドビ、プリンシパルサイエンティスト、Felix Meschberger
 
 **発表者のスライド**
 

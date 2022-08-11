@@ -1,36 +1,36 @@
 ---
-title: AEM SPA Editor
-description: '単一ページアプリケーション (SPA) を使用すれば、全体的なエクスペリエンスがよりインタラクティブになるので、コンテンツ中心のエクスペリエンスに対しても、人気が高まっています。 SPA Editor の詳細については、この概要を参照してください。 '
+title: AEM SPA エディター
+description: '単一ページアプリケーション（SPA）によって訪問者の全体的なエクスペリエンスがよりインタラクティブになるので、コンテンツ中心のエクスペリエンスに対しても人気が高まっています。ここでは、SPA エディターの概要について詳しく学びます。 '
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# AEM SPA Editor{#aem-spa-editor}
+# AEM SPA エディター{#aem-spa-editor}
 
-単一ページアプリケーション (SPA) を使用すれば、全体的なエクスペリエンスがよりインタラクティブになるので、コンテンツ中心のエクスペリエンスに対しても、人気が高まっています。 これまで、SPAのコンテキスト内のコンテンツとレイアウトは、Web Experience Management システムで編集できるのは、サーバーからの JSON データのみを消費し、その他のすべての責任（レンダリングなど）をクライアントに委任するアーキテクチャが中断されるので、手間がかかりました。 これにより、マーケターはヘッドレスのみの CMS を使用し、レイアウトの変更に対して開発サイクルを開始し、レイアウトのあらゆる形態を制御できなくなり、変更の速度に影響を与えました。 SPA Editor を使用すると、AEMページエディターの使いやすい機能を、React やAngularなどの JavaScript フレームワークで作成されたSPAに戻すことができます。 これにより、フロントエンド開発者は、従来のようにSPAを開発し、技術系以外の作成者がその場でコンテンツを編集することができます。 SPA Editor の詳細については、この概要をご覧ください。
+単一ページアプリケーション（SPA）によって訪問者の全体的なエクスペリエンスがよりインタラクティブになるので、コンテンツ中心のエクスペリエンスに対しても人気が高まっています。これまで、web エクスペリエンス管理システムが SPA のコンテンツやレイアウトをインコンテキストで編集することは、管理システムのアーキテクチャが、サーバーから JSON データを消費するだけでレンダリングなどのその他の役割はすべてクライアントに委ねるという中断を伴う仕組みであるため、可能であっても面倒なことでした。これにより、マーケターは、レイアウト変更のたびに、ヘッドレスのみの CMS を使用して開発サイクルを開始しなければならず、レイアウト形式を制御でなくなり変更の速度にも影響が及んでいました。SPA エディターを使用すると、React や Angular などの JavaScript フレームワークで構築された SPA で、AEM ページエディターのような使いやすい機能を利用することができます。これにより、フロントエンド開発者は従来どおりに SPA を開発でき、技術系ではない作成者もその場でコンテンツを編集することが可能になります。SPA エディターの概要について詳しく学んでください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24720/?quality=9)
 
-*配信済み10/10/2018*
+*2018年10月10日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Gabriel Walt 氏 (Adobe、プロダクトマネージャ )
+アドビ、製品マネージャー、Gabriel Walt
 
-**スライド表示**
+**スライドプレゼンテーション**
 
 [ファイルを入手](assets/aem-spa-editor.pdf)
 
 ## リソース {#resources}
 
-[ドキュメント：AEM SPA Editor](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html)
+[ドキュメント：AEM SPA エディター](https://experienceleague.adobe.com/docs/experience-manager-64/developing/headless/spas/spa-overview.html?lang=ja)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

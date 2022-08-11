@@ -1,6 +1,6 @@
 ---
-title: AEMのインデックス作成と JCR クエリ
-description: AEMのインデックス作成とクエリのベストプラクティス。 AEMでのクエリの問題のトラブルシューティング方法、およびインデックスの設定と管理方法。
+title: AEM のインデックス作成と JCR クエリ
+description: AEM のインデックス作成とクエリのベストプラクティス。AEM でのクエリの問題のトラブルシューティング方法、およびインデックスの設定と管理方法。
 uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
@@ -8,18 +8,18 @@ targetaudience: target-audience advanced;target-audience ongoing
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 
-# AEMのインデックス作成と JCR クエリ{#aem-indexing-and-jcr-query}
+# AEM のインデックス作成と JCR クエリ{#aem-indexing-and-jcr-query}
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*2017 年 7 月 20 日*
+*2017年7月20日（PT）に発表*
 
-**Thomas Mueller 氏 (Adobe、上級ソフトウェアエンジニア )**
+**アドビ、シニアソフトウェアエンジニア、Thomas Mueller**
 
 **発表者のスライド**
 
@@ -42,8 +42,8 @@ Oak ドキュメント
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
->* [AEM Replication のトラブルシューティング](aem-troubleshooting-aem-replication.md)
+>* [AEM のインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
+>* [AEM レプリケーションのトラブルシューティング](aem-troubleshooting-aem-replication.md)
 >* [Sling コンテンツ配布のトラブルシューティング](aem-troubleshooting-sling.md)
 
 <!-- 

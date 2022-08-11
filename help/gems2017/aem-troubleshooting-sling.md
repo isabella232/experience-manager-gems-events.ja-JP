@@ -1,6 +1,6 @@
 ---
 title: Sling コンテンツ配布のトラブルシューティング
-description: 'Sling Content Distribution(SCD) は、AEMで、コンテンツの転送、逆転配信、同期に使用できます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。 '
+description: 'Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。 '
 uuid: 823b2bda-411b-49af-9a75-ab5eb9562d57
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
@@ -8,22 +8,22 @@ targetaudience: target-audience advanced
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 
 # Sling コンテンツ配布のトラブルシューティング{#troubleshooting-sling-content-distribution}
 
-Sling Content Distribution(SCD) は、AEMで、コンテンツの転送、逆転配信、同期に使用できます。 このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
+Sling コンテンツ配布（SCD）は、AEMで順方向、逆方向のコンテンツ配布と同期に使用することができます。このセッションでは、SCD の一般的な問題のトラブルシューティングおよび処理方法の詳細を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*2017 年 8 月 24 日*
+*2017年8月23日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-ティモテ・マーレAdobe、シニアデベロッパー
+アドビ、シニアデベロッパー、Timothee Maret
 
 **発表者のスライド**
 
@@ -41,6 +41,6 @@ Sling Content Distribution(SCD) は、AEMで、コンテンツの転送、逆転
 
 >[!MORELIKETHIS]
 >
->* [AEMのインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
+>* [AEM のインデックス作成と JCR クエリ](aem-indexing-jcr-query.md)
 >* [Sling コンテンツ配布のトラブルシューティング](aem-troubleshooting-sling.md)
 

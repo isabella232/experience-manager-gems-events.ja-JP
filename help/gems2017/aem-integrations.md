@@ -1,28 +1,28 @@
 ---
-title: AEMの統合 — 堅牢な基盤は非常に優れています
-description: AEMの作業は非常に自己完結型ですが、AEMに取り組む AT/AAM/AA コンサルタントは、AEMの対応するコンサルタントと共同作業する必要があります。 このセッションでは、DTM を使用した AT/AAM/AA 統合の概要、およびどのような点が重要かについて説明します。
+title: AEM 統合 - 堅牢な基盤は長い道のりを歩む
+description: AEM の作業は自己完結型ですが、AEM に取り組む AT／AAM／AA コンサルタントは、AEM の対応するコンサルタントと共同作業をする必要があります。このセッションでは、DTM を使用した AT／AAM／AA 統合の概要と注意点、そしてそれが重要である理由を説明します。
 uuid: 6967a5c8-5eca-488c-9548-facef7bb55c0
 discoiquuid: 40741bd1-4995-4627-9c7c-2d5f2cd68760
 targetaudience: target-audience advanced
 source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# AEMの統合 — 堅牢な基盤は非常に優れています{#aem-integrations-a-solid-foundation-goes-a-long-way}
+# AEM 統合 - 堅牢な基盤は長い道のりを歩む{#aem-integrations-a-solid-foundation-goes-a-long-way}
 
-AEMの作業は非常に自己完結型ですが、AEMに取り組む AT/AAM/AA コンサルタントは、AEMの対応するコンサルタントと共同作業する必要があります。 このセッションでは、DTM を使用した AT/AAM/AA 統合の概要、およびどのような点が重要かについて説明します。 AT/AAM/AA やAEMを実際に使用する理由を知りたい場合は、これがセッションです。   AT = Adobe Target AAM = Adobe Audience Manager AA = Adobe Analytics DTM = Dynamic Tag Management
+AEM の作業は自己完結型ですが、AEM に取り組む AT／AAM／AA コンサルタントは、AEM の対応するコンサルタントと共同作業をする必要があります。このセッションでは、DTM を使用した AT／AAM／AA 統合の概要と注意点、そしてそれが重要である理由を説明します。AT／AAM／AA や AEM を使用する理由をお探しの場合、このセッションをご覧ください。AT = Adobe Target、AAM = Adobe Audience Manager、AA = Adobe Analytics、DTM = Dynamic Tag Management
 
 >[!VIDEO](https://video.tv.adobe.com/v/19833/?quality=9)
 
-*2017 年 9 月 28 日*
+*2017年9月27日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-Jan Exner（マネージャー） 管理コンサルタント、Adobe
+アドビ、管理コンサルタント担当マネージャー、Jan Exner
 
 **発表者のスライド**
 
@@ -30,7 +30,7 @@ Jan Exner（マネージャー） 管理コンサルタント、Adobe
 
 ## 関連リンク {#related-links}
 
-[開発者向け Web 分析](https://webanalyticsfordevelopers.com/)
+[開発者向け web 分析](https://webanalyticsfordevelopers.com/)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

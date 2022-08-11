@@ -1,6 +1,6 @@
 ---
-title: JavaScript プロジェクトの品質指標の追跡
-description: Sonarqube 分析を JavaScript プロジェクトに統合し、それでアクセスできる方法・基本的な静的コード分析・単体テストの有効範囲・統合テストの有効範囲 (AEM)
+title: JavaScript プロジェクトの品質指標のトラック
+description: Sonarqube 分析を JavaScript プロジェクトに統合し、基本的な静的コード分析、単体テストの対象範囲、統合テストの対象範囲（AEM）を利用するための方法を説明します。
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
@@ -8,25 +8,25 @@ exl-id: 7b3b0418-c6a5-42f8-9274-ad275235fd88
 source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# JavaScript プロジェクトの品質指標の追跡{#track-quality-metrics-of-your-javascript-project}
+# JavaScript プロジェクトの品質指標のトラック{#track-quality-metrics-of-your-javascript-project}
 
-Sonarqube 分析を JavaScript プロジェクトに統合し、次の機能を利用するための方法を説明します。
+Sonarqube 分析を JavaScript プロジェクトに統合し、次の機能を使用するための方法を説明します。
 
 * 基本的な静的コード分析
 * 単体テストの対象範囲
-* 統合テストの範囲 (AEM)
+* 統合テストの対象範囲（AEM）
 
 >[!VIDEO](https://video.tv.adobe.com/v/19372/?quality=9)
 
-*配信日： 2015 年 12 月 10 日*
+*2015年12月9日（PT）に配信*
 
-**提示者：**
+**発表者：**
 
-* David Catalan 氏、QE リードデベロッパー、Adobe
+* アドビ、リード QE デベロッパー、David Catalan
 
 **発表者のスライド**
 
