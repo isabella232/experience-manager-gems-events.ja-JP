@@ -10,7 +10,7 @@ kt: 10470
 source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -31,5 +31,5 @@ ht-degree: 88%
 >[!NOTE]
 >
 >* Experience League に関するセッション固有のコミュニティのやり取りについては、この[コンテキストスレッド](https://adobe.ly/3O0rdzd)を参照してください。
->* ウェビナーに関する自動通知を受け取るには、 [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
+>* ウェビナーに関する自動通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録しください。
 

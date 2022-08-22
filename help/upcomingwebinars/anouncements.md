@@ -9,7 +9,7 @@ level: Intermediate
 source-git-commit: d0fef69c8934fdbb79fc1768f7e3eb673891b5d4
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
@@ -19,5 +19,5 @@ ht-degree: 47%
 
 >[!NOTE]
 >
->* 今後のセッションに関する情報は、2022 年 8 月中旬に追加されます。
->* 登録は次の場所でおこなってください： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/) を追加しました。
+>* 今後のセッションに関する情報は、2022年8月中旬以降に公開されます。
+>* 今後のウェビナーに関する自動通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。

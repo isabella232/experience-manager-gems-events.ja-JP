@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
-breadcrumb-title: AEM GEM イベント
+breadcrumb-title: AEM GEMS イベント
 feature-set: Experience Manager
 source-git-commit: 23dc95f3259fed6182871a13637ff80f4c62edaa
 workflow-type: tm+mt
@@ -34,7 +34,7 @@ ht-degree: 100%
    + [Adobe Experience Manager 6.4 の詳細](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Experience Cloud の心臓部](gems2018/aem-acp.md)
    + [リアルタイムで軽量：Adobe I/O イベントを使用した AEM とのイベント駆動型統合の構築](gems2018/aem-adobe-io.md)
-   + [Adobe Developer（IO）イベント - Analytics のトリガー](gems2018/aem-analytics-triggers.md)
+   + [Adobe Developer（IO）イベント - Analytics Triggers](gems2018/aem-analytics-triggers.md)
    + [AEM オーサーのスケーラビリティの実験](gems2018/aem-author-scalability1.md)
    + [AEM コアコンポーネント](gems2018/aem-core-components.md)
    + [デジタルアセットの急拡大と  [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
