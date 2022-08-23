@@ -1,16 +1,16 @@
 ---
 title: Cloud Manager 2022
 description: この AEM GEMs ウェビナーには、昨年リリースされた新機能の紹介、バックグラウンドでの更新に関するプレゼンテーションとデモが含まれます。
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 セッションの説明：
 昨年リリースされた新機能、開発の裏舞台、2022年の展望など。Cloud Manager がどのように動作するか、顧客が最大限に活用する方法に関する詳細。  
 
-コンテンツは、Cloud Service を中心に、Adobe Experience Manager as a Cloud Service と Experience Manager Managed Services の両方に適用されます。技術者にも技術者以外にも適した内容です。Cloud Manager の経験があるとコンテキストの理解に役立ちますが、必須ではありません。
+コンテンツは、Cloud Service を中心に、Adobe Experience Manager as a Cloud Service と Experience Manager Managed Services の両方に適用されます。技術的な参加者と非技術的な参加者の両方に適しています。 以前は、Cloud Manager を利用してコンテキストに役立つことがありましたが、必須ではありません。
 
 **ウェビナー録画**
 
