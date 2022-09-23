@@ -1,15 +1,15 @@
 ---
 title: お客様の使用例とAEMヘッドレスの導入
 description: セッションのお知らせ
-version: Experience Manager
+version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
 source-git-commit: 3580be032a1c5d94bab90c3a76af9dfc81587993
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 10%
 
 ---
 
