@@ -6,10 +6,10 @@ feature: Release Information
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 100%
+source-wordcount: '42'
+ht-degree: 78%
 
 ---
 
@@ -19,5 +19,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->* 今後のセッションに関する情報は、2022年8月中旬以降に公開されます。
+>* 今後のセッションに関する情報は、2022 年 11 月初旬に公開されます。
 >* 今後のウェビナーに関する自動通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
