@@ -10,16 +10,44 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 85%
 
 ---
 
 # Adobe Experience Manager Gems
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
+
+## 今後のAEM GEM イベント
+
+<!---  Remove the comment marks, and put the upcoming event in the below table
+
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+今後のAEM GEM の詳細は、2022 年 11 月に公開予定です。
+
+>[!NOTE]
+>
+> 新規登録して今後の GEMS セッションの通知を受け取る： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
 
 ## 2022 AEM GEM リニューアル
 
@@ -32,10 +60,9 @@ ht-degree: 100%
 * 各ウェビナー終了後に録画を提供
 * オンラインセミナーは無料
 
-## 今後のウェビナーおよび登録
-
 アドビの AEM GEM ウェビナーは、すべて無料で、バーチャルで実施されます。
-* 今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
+
+登録時刻： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/) 今後のウェビナーの通知を受け取る
 
 ## Experience League コミュニティ
 
