@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
+source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 80%
+source-wordcount: '318'
+ht-degree: 79%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 80%
 --->
 今後のAEM GEM ウェビナー： *オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer*.
 タイミング：1 月 18 日 (CET) 午後 5 時 (PST)/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-登録： [ウェビナー登録](https://aem-augs.adobe.com/)
+登録： [ウェビナー登録](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
