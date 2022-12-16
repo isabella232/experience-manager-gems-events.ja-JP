@@ -7,13 +7,13 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 5f3e2e14-57ab-4bf5-a8c7-9bf431836ab2
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
-
 
 # 内容を見る - Cloud Manager 2022
 
@@ -22,7 +22,7 @@ ht-degree: 88%
 セッションの説明：
 昨年リリースされた新機能、開発の裏舞台、2022年の展望など。Cloud Manager がどのように動作するか、顧客が最大限に活用する方法に関する詳細。  
 
-コンテンツは、Cloud Service を中心に、Adobe Experience Manager as a Cloud Service と Experience Manager Managed Services の両方に適用されます。技術的な参加者と非技術的な参加者の両方に適しています。 以前は、Cloud Manager を利用してコンテキストに役立つことがありましたが、必須ではありません。
+コンテンツは、Cloud Service を中心に、Adobe Experience Manager as a Cloud Service と Experience Manager Managed Services の両方に適用されます。技術者と非技術者の両方の参加者に適した内容です。Cloud Manager の経験があるとコンテキストの理解に役立ちますが、必須ではありません。
 
 **ウェビナー録画**
 
