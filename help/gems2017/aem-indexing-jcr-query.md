@@ -5,13 +5,13 @@ uuid: d4f70700-328c-42f9-9fd8-5181d2ba1697
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
-source-git-commit: f563ff48e6721c5d7c3b609506c09049b08d88b4
-workflow-type: tm+mt
-source-wordcount: '97'
+exl-id: d1b3e632-da5a-4e8f-8acc-467c71ce251b
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
-
 
 # AEM のインデックス作成と JCR クエリ{#aem-indexing-and-jcr-query}
 
