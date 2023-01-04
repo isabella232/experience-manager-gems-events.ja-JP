@@ -6,7 +6,7 @@ feature-set: Experience Manager
 source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,21 +18,21 @@ ht-degree: 96%
    + [今後のウェビナー](/help/announcements.md)
    + [オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer](gems2022/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
-   + [お客様の使用例とAEMヘッドレスの導入](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [顧客のユースケースと使用中の AEM ヘッドレス実装](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [内容を見る - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [AEM と CIF フレームワークを統合して、豊かで没入感のある e コマースエクスペリエンスを構築](gems2022/aem-and-cif-framework-integration.md)
    + [AEM ヘッドレスとアプリビルダーを使用して、より迅速に web サイトを構築](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service：2021年の振り返りと 2022年の見通し](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 の対応 - 翻訳の統合とベストプラクティス](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
-+ 2019 {#gems2019}
++ 2019年 {#gems2019}
    + [Adobe Experience Manager 6.5  [!DNL Sites] の新機能](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [AEM リッチテキストエディター（RTE）の詳細](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [ContextHub のストア、モジュール、セグメントの実装の詳細](gems2019/contexthub-deep-dive.md)
    + [AEM 6.5 でのヘッドレスのオムニチャネルエクスペリエンスの作成](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
    + [AEM Modernization Suite の概要](gems2019/introducing-the-aem-modernization-suite.md)
    + [AEM Screens 向けのオーサーとパブリッシュの活用](gems2019/leveraging-author-publish-for-aem-screens.md)
-+ 2018 {#gems2018}
++ 2018年 {#gems2018}
    + [Adobe Experience Manager 6.4 の詳細](gems2018/aem-6-4-technical-sneak-peek.md)
    + [Adobe Experience Platform - Experience Cloud の心臓部](gems2018/aem-acp.md)
    + [リアルタイムで軽量：Adobe I/O イベントを使用した AEM とのイベント駆動型統合の構築](gems2018/aem-adobe-io.md)

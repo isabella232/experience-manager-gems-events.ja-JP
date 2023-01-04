@@ -13,7 +13,7 @@ user-guide-description: AEM GEM セッション
 source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 79%
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 79%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 今後のAEM GEM イベント
+## 今後の AEM GEM イベント
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -49,7 +49,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
-> 新規登録して今後の GEMS セッションの通知を受け取る： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
+> 今後の GEMS セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
 
 ## 2022 AEM GEM リニューアル
 
@@ -64,7 +64,7 @@ ht-degree: 79%
 
 アドビの AEM GEM ウェビナーは、すべて無料で、バーチャルで実施されます。
 
-登録時刻： [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/) 今後のウェビナーの通知を受け取る
+今後のウェビナーの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)にご登録ください。
 
 ## Experience League コミュニティ
 
