@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6cb7cbce469afcefbdf767aff74858f147fc8593
+source-git-commit: 8680d300472c549115ba3d4bf12500f2700ca1ac
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '426'
 ht-degree: 100%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 ## アドビコンテンツへの寄稿について
 
-[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/ja/contributor/contributor-guide/introduction.html)（英語）を参照してください。
+[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)（英語）を参照してください。
 
 寄稿方法は、コントリビューターが誰か、寄稿したい変更の種類によって異なります。
 
 ### 軽微な変更
 
-善意でマイナーアップデートを寄稿する場合は、記事にアクセスし、記事の GitHub ソースに移動する「**編集**」リンクをクリックします。そのあとは、GitHub UI を使用して更新をおこないます。詳しくは、一般的な[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)（英語）を参照してください。
+善意でマイナーアップデートを寄稿する場合は、記事にアクセスし、記事の GitHub ソースに移動する「**編集**」リンクをクリックします。そのあとは、GitHub UI を使用して更新をおこないます。詳しくは、一般的な[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)（英語）を参照してください。
 
 このリポジトリ内のドキュメントおよびコード例について投稿した軽微な修正または説明には、アドビの利用条件が適用されます。
 
@@ -45,7 +45,7 @@ Adobe Experience Cloud ソリューションの製品チームに所属するテ
 
 コミュニティ投稿者は、GitHub UI を使用して簡単な編集をおこなったり、リポジトリをフォークして大規模な投稿をおこなったりできます。
 
-詳しくは、[アドビドキュメント寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)（英語）を参照してください。
+詳しくは、[アドビドキュメント寄稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)（英語）を参照してください。
 
 ## Markdown を使用してトピックを書式設定する方法
 
