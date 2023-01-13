@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
 source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -43,8 +43,9 @@ ht-degree: 88%
 </table>
 
 --->
-今後のAEM GEM ウェビナー： *オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer*.
-タイミング：1 月 18 日 (CET) 午後 5 時 (PST)/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
+今後の AEM GEM ウェビナー：*オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー*。
+開催日：1月18日（CET）午後5時（PST）／午前8時（PST）／午後9時30分（IST）
+リソース： [AEM ベストプラクティスアナライザー](/help/gems2022/aem-best-practices-analyzer.md)
 登録： [ウェビナー登録](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
