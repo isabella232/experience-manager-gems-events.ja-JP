@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+workflow-type: tm+mt
+source-wordcount: '311'
+ht-degree: 74%
 
 ---
 
@@ -43,14 +43,12 @@ ht-degree: 100%
 </table>
 
 --->
-今後の AEM GEM ウェビナー：*オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー*。
-開催日：1月18日（CET）午後5時（PST）／午前8時（PST）／午後9時30分（IST）
-リソース： [AEM ベストプラクティスアナライザー](/help/gems2022/aem-best-practices-analyzer.md)
-登録： [ウェビナー登録](https://aem-augs.adobe.com/e/mz8eae/)
+最新のAEM GEM ウェビナー： *オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer*.
+実施済み：1 月 18 日 (CET) 午後 5 時 (PST)/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> 今後の GEMS セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
+> 新規登録して、今後のAEM GEM ウェビナー ( [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
 
 ## 2022 AEM GEM リニューアル
 
@@ -77,8 +75,8 @@ ht-degree: 100%
 
 ## 以前のウェビナー録画
 
-前回のウェビナーは、**AEM と CIF フレームワークを統合して、豊かで没入感のある e コマースエクスペリエンスを構築する**&#x200B;というテーマで、4月27日（PT）に行われました。
+最後のウェビナーは **オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer** また、2023 年 1 月 18 日に実施されました。
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-このウェビナーは、アドビのテクニカルアーキテクトを務める Kunal Gaba と Vinay Kumar が行いました。
+説明や発表者の情報など、セッションの詳細については、 [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
