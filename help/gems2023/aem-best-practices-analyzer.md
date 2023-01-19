@@ -7,20 +7,16 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
-workflow-type: ht
-source-wordcount: '231'
-ht-degree: 100%
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+workflow-type: tm+mt
+source-wordcount: '262'
+ht-degree: 93%
 
 ---
 
 # オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー
 
-## 開催日：2023年1月18日（PT）
-
-## 登録
-
-このウェビナーについては、[Adobe AEM ユーザーグループ](https://aem-augs.adobe.com/)から登録してください。
+## このウェビナーは 2023 年 1 月 18 日に配信されました — 以下の録画をご覧ください
 
 ## 説明
 
@@ -34,3 +30,12 @@ ht-degree: 100%
 * Kiran Murugula、シニアクラウドアーキテクト、Adobe
 * Vaibhav Varshney、コンピューターサイエンティスト、Adobe
 * Himani Chauhan、コンピューターサイエンティスト、Adobe
+
+## ウェビナー録画 — 01/18/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
+
+>[!NOTE]
+>
+>* Experience League に関するセッション固有のコミュニティのやり取りについては、この[コンテキストスレッド](https://bit.ly/3Z6AyM1)を参照してください。
+>* ウェビナーに関する自動通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に登録しください。
