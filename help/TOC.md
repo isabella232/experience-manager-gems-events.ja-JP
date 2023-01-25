@@ -4,8 +4,8 @@ user-guide-description: Adobe Experience Managerのエキスパートがお届�
 breadcrumb-title: AEM GEMS イベント
 feature-set: Experience Manager
 source-git-commit: a38cf23e8c2f24f67681de22c19d5844550bfe7a
-workflow-type: tm+mt
-source-wordcount: '624'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
