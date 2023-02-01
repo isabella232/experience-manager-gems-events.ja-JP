@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 74%
+source-wordcount: '308'
+ht-degree: 75%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 74%
 </table>
 
 --->
-最新のAEM GEM ウェビナー： *オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer*.
-実施済み：1 月 18 日 (CET) 午後 5 時 (PST)/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
+*迅速な開発環境によるAdobe Experience ManagerCloud Service開発の加速*
+日付：2 月 22 日 (CET) 午後 5 時/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEMの迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >

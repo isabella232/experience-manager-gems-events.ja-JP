@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEMS イベント
 feature-set: Experience Manager
-source-git-commit: a38cf23e8c2f24f67681de22c19d5844550bfe7a
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+workflow-type: tm+mt
+source-wordcount: '636'
+ht-degree: 98%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 100%
 
 + [概要](overview.md)
 + 2023年度 {#gems2023}
+   + [迅速な開発環境によるExperience Manageras a Cloud Service開発の加速](/help/gems2023/Rapid-Development-Environments.md)
    + [オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー](gems2023/aem-best-practices-analyzer.md)
 + 2022年度 {#gems2022}
    + [顧客のユースケースと使用中の AEM ヘッドレス実装](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
@@ -57,7 +58,7 @@ ht-degree: 100%
    + [AEM のインデックス作成と JCR クエリ](/help/gems2017/aem-indexing-jcr-query.md)
    + [AEM 統合](/help/gems2017/aem-integrations.md)
    + [AEM データストアの管理](/help/gems2017/aem-managing-aem-datastore.md)
-   + [AEM QueryBuilder での検索フォームの作成入門](/help/gems2017/aem-search-forms-using-querybuilder.md)
+   + [AEM QueryBuilder で容易になった検索フォーム](/help/gems2017/aem-search-forms-using-querybuilder.md)
    + [AEM のサステイニング - AEM メンテナンスリリースのデプロイのベストプラクティス](/help/gems2017/aem-sustenance-best-practices-deploying-maintenance-releases.md)
    + [tar の内部へ：TarMK の深掘り](/help/gems2017/aem-tarmk-deepdive.md)
    + [Toughday2 - 新しく改善されたストレステストとベンチマークツール](/help/gems2017/aem-toughday2-stress-testing-benchmarking-tool.md)
