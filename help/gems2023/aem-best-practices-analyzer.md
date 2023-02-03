@@ -8,15 +8,15 @@ role: User
 level: Intermediate
 kt: 11630
 source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー
 
-## このウェビナーは 2023 年 1 月 18 日に配信されました — 以下の録画をご覧ください
+## このウェビナーは 2023年1月18日（PT）に配信されました - 以下の録画をご覧ください
 
 ## 説明
 
@@ -25,13 +25,13 @@ ht-degree: 88%
 
 ### 講演者
 
-* Aditi Dutt Chaudhuri 氏 ( シニアプロダクトマネージャー、Adobe)
+* Aditi Dutt Chaudhuri、シニアプロダクトマネージャー、Adobe
 * Saurabh Saxena、エンジニアリングマネージャー、Adobe
-* Adobe、シニアクラウドアーキテクト、Kiran Murugulla 氏
+* Kiran Murugulla、シニアクラウドアーキテクト、Adobe
 * Vaibhav Varshney、コンピューターサイエンティスト、Adobe
 * Himani Chauhan、コンピューターサイエンティスト、Adobe
 
-## ウェビナー録画 — 01/18/2023
+## ウェビナー録画 - 2023/1/18（PT）
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
