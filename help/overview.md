@@ -13,7 +13,7 @@ user-guide-description: AEM GEM セッション
 source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 75%
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 75%
 
 >[!NOTE]
 >
-> 新規登録して、今後のAEM GEM ウェビナー ( [AdobeのAEMユーザーグループ](https://aem-augs.adobe.com/).
+> 今後の AEM GEM セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
 
 ## 2022 AEM GEM リニューアル
 
@@ -75,8 +75,8 @@ ht-degree: 75%
 
 ## 以前のウェビナー録画
 
-最後のウェビナーは **オンプレミスおよび AMS 環境用のAEM Best Practices Analyzer** また、2023 年 1 月 18 日に実施されました。
+前回のウェビナーは、**オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー**&#x200B;に関するもので、2023年1月18日（PT）に開催されました。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-説明や発表者の情報など、セッションの詳細については、 [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
+説明や講演者の情報など、セッションについて詳しくは、[AEM ベストプラクティスアナライザー](/help/gems2023/aem-best-practices-analyzer.md)を参照してください。
