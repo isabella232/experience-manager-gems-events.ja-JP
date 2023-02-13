@@ -13,7 +13,7 @@ user-guide-description: AEM GEM セッション
 source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
 workflow-type: tm+mt
 source-wordcount: '308'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -43,8 +43,9 @@ ht-degree: 91%
 </table>
 
 --->
-*迅速な開発環境によるAdobe Experience ManagerCloud Service開発の加速*
-日付：2 月 22 日 (CET) 午後 5 時/午前 8 時 (PST)/午後 9.30 時 (IST) リソース： [AEMの迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)
+*迅速な開発環境を使用した Adobe Experience Manager Cloud Service 開発の高速化*
+日付：2月22日午後5時（CET）／午前8時（PST）／午後9時30分（IST）
+リソース：[AEM の迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
