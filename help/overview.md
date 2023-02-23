@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 100%
+source-wordcount: '279'
+ht-degree: 87%
 
 ---
 
@@ -43,9 +43,8 @@ ht-degree: 100%
 </table>
 
 --->
-*迅速な開発環境を使用した Adobe Experience Manager Cloud Service 開発の高速化*
-日付：2月22日午後5時（CET）／午前8時（PST）／午後9時30分（IST）
-リソース：[AEM の迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)
+最新のAEM GEM ウェビナー： *迅速な開発環境によるAdobe Experience ManagerCloud Service開発の加速* は 2023 年 2 月 22 日に実施されました。
+録画は次の場所で確認できます。 [AEMの迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
@@ -74,10 +73,4 @@ ht-degree: 100%
 * 迅速な回答：アドビソリューションの積極的な活用をサポートする、豊富な実例に基づく回答
 * アイデア創出とフィードバック：顧客の製品アイデアを取り込み、製品チームに貴重な VoC フィードバックを提供
 
-## 以前のウェビナー録画
 
-前回のウェビナーは、**オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー**&#x200B;に関するもので、2023年1月18日（PT）に開催されました。
-
->[!VIDEO](https://video.tv.adobe.com/v/3413364/)
-
-説明や講演者の情報など、セッションについて詳しくは、[AEM ベストプラクティスアナライザー](/help/gems2023/aem-best-practices-analyzer.md)を参照してください。
