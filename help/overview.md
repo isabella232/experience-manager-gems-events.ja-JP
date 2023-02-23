@@ -10,7 +10,7 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
+source-git-commit: c6540288afd5bd5e2c2cad7c5803ecbf1de65542
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 87%
