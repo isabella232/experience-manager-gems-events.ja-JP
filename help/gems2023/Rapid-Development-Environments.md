@@ -11,16 +11,16 @@ last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
 source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '238'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # 迅速な開発環境による AEM as a Cloud Service 開発の高速化
 
-本ウェビナーは 2023 年 2 月 22 日に実施されました。 以下の録画をご覧ください。
+本ウェビナーは 2023年2月22日（PT）に実施されました。 以下の録画をご覧ください。
 
 ## セッションの説明
 
