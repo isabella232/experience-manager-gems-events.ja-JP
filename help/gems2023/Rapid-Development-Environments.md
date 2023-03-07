@@ -10,10 +10,10 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: f0d35b1bfd5c9be402486f1777fdade0174ca6ee
-workflow-type: ht
+source-git-commit: c95df8aa847b7926e7cf464431637c1bb5bb12a6
+workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ RDE を使用すると、開発者は変更を迅速にデプロイしてレビ�
 * Karl Pauls、シニアコンピューターサイエンティスト
 * David Bosschaert、シニアソフトウェアエンジニア
 
-## ウェビナー録画 - 2023/1/18（PT）
+## ウェビナー録画 — 02/22/2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415876)
 
