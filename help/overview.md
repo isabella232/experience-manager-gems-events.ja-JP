@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM セッション
-source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
-workflow-type: ht
-source-wordcount: '279'
-ht-degree: 100%
+source-git-commit: e499198cba2a36b4abd389932254b1ff1285caf6
+workflow-type: tm+mt
+source-wordcount: '289'
+ht-degree: 83%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 <img alt="デジタルエクスペリエンス" src="./assets/ADX_Gems.png"/>
 
-## 以前の AEM GEM イベント
+## 今後のAEM GEM イベント
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,10 +43,10 @@ ht-degree: 100%
 </table>
 
 --->
-最新の AEM GEM ウェビナー：**迅速な開発環境による Adobe Experience Manager Cloud Service 開発の加速**&#x200B;は *2023年2月22日（PT）* に実施されました。
-**録画**&#x200B;はこちら（[AEM の迅速な開発環境に関するウェビナー](/help/gems2023/Rapid-Development-Environments.md)）で確認できます。
+次回 **6 月 28 日 (PST)、午前 8 時 (PST)** AEM認定に関するウェビナー（技術）をご利用いただけます。 **マスターExperience Manager認定：準備、準備、認定取得！**
 
 >[!NOTE]
+> 今後のイベントには登録が必要です。ご登録は当社でお願いします。 [イベントページ](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-master-the-art-of-experience-manager-certification-get-ready-get-set-get-certified/).
 >
 > 今後の AEM GEM セッションの通知を受け取るには、[アドビの AEM ユーザーグループ](https://aem-augs.adobe.com/)に新規登録してください。
 
