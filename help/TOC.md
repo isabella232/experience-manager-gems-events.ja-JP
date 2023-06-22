@@ -3,10 +3,10 @@ user-guide-title: Adobe Experience Manager GEMS イベント
 user-guide-description: Adobe Experience Managerのエキスパートがお届けする技術解説シリーズ「AEM Gems」についてご紹介します。
 breadcrumb-title: AEM GEMS イベント
 feature-set: Experience Manager
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: 401634150d018e42a35556a0e5d9df19ed7ec74f
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 100%
+source-wordcount: '639'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 100%
 
 + [概要](overview.md)
 + 2023年度 {#gems2023}
+   + [AEM認定 — 技術](/help/gems2023/aem-certification-technical.md)
    + [迅速な開発環境を使用した Experience Manager as a Cloud Service 開発の高速化](/help/gems2023/Rapid-Development-Environments.md)
    + [オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー](gems2023/aem-best-practices-analyzer.md)
 + 2022年度 {#gems2022}
